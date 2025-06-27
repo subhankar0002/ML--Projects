@@ -1,0 +1,1001 @@
+﻿Company,Model,FuelType,Colour,Kilometer,BodyStyle,TransmissionType,CngKit,Owner,DealerState,City,Warranty,Car Age,QualityScore,Price
+MARUTI SUZUKI,CELERIO(2017-2019),PETROL,Silver,33197,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,7,7.8,5.75 Lakhs
+MARUTI SUZUKI,ALTO,PETROL,Red,10322,HATCHBACK,Manual,1,1st Owner,Karnataka,Bangalore,1,4,8.3,4.35 Lakhs
+HYUNDAI,GRAND I10,PETROL,Grey,37889,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,10,7.9,4.7 Lakhs
+TATA,NEXON,PETROL,A Blue,13106,HATCHBACK,null,1,1st Owner,Karnataka,Bangalore,1,5,8.1,9.9 Lakhs
+FORD,FIGO,DIESEL,Silver,104614,HATCHBACK,Manual,0,2nd Owner,Karnataka,Bangalore,0,15,7.5,2.7 Lakhs
+MERCEDES BENZ,E CLASS,DIESEL,Black,87700,SEDAN,Automatic,0,3rd Owner,Karnataka,Bangalore,0,12,7.2,9.99 Lakhs
+VOLKSWAGEN,AMEO,DIESEL,Blue,70577,SEDAN,null,1,1st Owner,Karnataka,Bangalore,1,8,7.9,6.75 Lakhs
+MARUTI SUZUKI,ERTIGA,PETROL,A Blue,76259,MPV,null,1,1st Owner,Karnataka,Bangalore,1,12,7.6,6 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Silver,85000,HATCHBACK,Manual,1,3rd Owner,Karnataka,Bangalore,0,10,7.4,4.8 Lakhs
+HYUNDAI,I10,PETROL,Red,77000,HATCHBACK,Manual,1,2nd Owner,Karnataka,Bangalore,0,17,7.2,2.4 Lakhs
+VOLKSWAGEN,AMEO,PETROL,Steel Grey,29416,SEDAN,null,1,1st Owner,Karnataka,Bangalore,1,7,8.1,6.5 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Red,64277,HATCHBACK,Manual,1,2nd Owner,Karnataka,Bangalore,1,8,7.7,5 Lakhs
+HYUNDAI,CRETA(2018-2019),DIESEL,Red,51078,SUV,null,1,1st Owner,Karnataka,Bangalore,1,7,7.8,11.35 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Red,66535,SUV,null,1,1st Owner,Karnataka,Bangalore,1,8,8.1,8.75 Lakhs
+MAHINDRA,XUV500,DIESEL,Moondust Silver,58422,SUV,null,0,1st Owner,Karnataka,Bangalore,1,9,7.5,13.5 Lakhs
+HONDA,JAZZ,PETROL,Orange,53377,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,9,7.7,5.95 Lakhs
+HYUNDAI,GRAND I10,PETROL,Marine Blue,19365,HATCHBACK,null,1,1st Owner,Karnataka,Bangalore,1,6,7.9,6.75 Lakhs
+RENAULT,DUSTER,PETROL,Brown,42773,SUV,Manual,0,1st Owner,Karnataka,Bangalore,1,8,7.7,7.55 Lakhs
+NISSAN,MICRA ACTIVE,PETROL,Silver,17511,HATCHBACK,Manual,0,2nd Owner,Karnataka,Bangalore,1,10,8.1,4.1 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Red,48042,HATCHBACK,null,1,2nd Owner,Karnataka,Bangalore,1,9,8.1,5.25 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Silver,36914,HATCHBACK,Manual,1,1st Owner,Karnataka,Bangalore,1,9,8.4,4.85 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Grey,47892,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,8,8.5,6.45 Lakhs
+JEEP,COMPASS,DIESEL,White,55779,SUV,null,0,1st Owner,Karnataka,Bangalore,1,7,8.1,15.45 Lakhs
+HYUNDAI,ELITE I20,PETROL,Grey,44291,HATCHBACK,null,1,1st Owner,Karnataka,Bangalore,1,6,8.7,7.15 Lakhs
+NISSAN,TERRANO,PETROL,Silver,35421,SUV,Manual,0,1st Owner,Karnataka,Bangalore,1,9,8,6.55 Lakhs
+FORD,FIESTA(2008-2011),DIESEL,Silver,139196,SEDAN,null,0,1st Owner,Karnataka,Bangalore,0,15,0,2.35 Lakhs
+HYUNDAI,XCENT,PETROL,White Red,61040,SEDAN,Manual,0,1st Owner,Karnataka,Bangalore,1,10,8.2,5.55 Lakhs
+HONDA,BRIO,PETROL,Brown,67935,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,0,12,7.8,3.75 Lakhs
+HYUNDAI,ELITE I20,PETROL,Red,34580,HATCHBACK,null,1,2nd Owner,Karnataka,Bangalore,1,8,8.2,6.2 Lakhs
+HYUNDAI,VERNA,DIESEL,Gold,172469,SEDAN,Manual,1,2nd Owner,Karnataka,Bangalore,0,17,6.3,2.75 Lakhs
+MAHINDRA,XUV500,DIESEL,Grey,67147,SUV,Manual,1,1st Owner,Karnataka,Bangalore,1,11,7.2,9.5 Lakhs
+TATA,TIAGO,PETROL,Brown,66837,HATCHBACK,null,1,2nd Owner,Karnataka,Bangalore,1,7,8.3,5.3 Lakhs
+HONDA,JAZZ,PETROL,White,63578,HATCHBACK,null,0,2nd Owner,Karnataka,Bangalore,1,8,7.9,6.2 Lakhs
+HYUNDAI,GRAND I10,PETROL,Red,30959,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,8,8.2,6.25 Lakhs
+HONDA,WR V,PETROL,White,54174,SUV,null,0,1st Owner,Karnataka,Bangalore,1,8,8.3,8.25 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,27701,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,7,8.6,7.6 Lakhs
+FORD,FIGO,PETROL,Grey,54127,HATCHBACK,null,1,2nd Owner,Karnataka,Bangalore,1,9,8,4.95 Lakhs
+FIAT,GRAND PUNTO,DIESEL,Yellow,103000,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,0,11,7.7,4.55 Lakhs
+FORD,FIGO,DIESEL,White,53490,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,0,13,7.7,3.45 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Blue,23768,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,7,8.7,6.75 Lakhs
+HYUNDAI,EON,PETROL,Grey,57834,HATCHBACK,Manual,1,2nd Owner,Karnataka,Bangalore,1,10,8.1,3.35 Lakhs
+HYUNDAI,I20 ACTIVE,PETROL,Red,32321,HATCHBACK,null,1,2nd Owner,Karnataka,Bangalore,1,8,7.9,6.8 Lakhs
+HYUNDAI,GRAND I10,PETROL,Orange,33975,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,11,8,5.15 Lakhs
+FORD,ECOSPORT,DIESEL,Silver,70183,SUV,Manual,0,2nd Owner,Karnataka,Bangalore,0,11,7.2,5.95 Lakhs
+FORD,FIGO,DIESEL,White,69220,HATCHBACK,Manual,1,2nd Owner,Karnataka,Bangalore,0,14,7.3,3.15 Lakhs
+VOLKSWAGEN,POLO,DIESEL,White,50392,HATCHBACK,Manual,1,2nd Owner,Karnataka,Bangalore,0,12,7.3,5.15 Lakhs
+MAHINDRA,XUV500,DIESEL,Pearl White,104318,SUV,Manual,0,2nd Owner,Karnataka,Bangalore,0,11,6.7,8.5 Lakhs
+MAHINDRA,XUV500(2011_2015),DIESEL,Black,93400,SUV,null,1,2nd Owner,Karnataka,Bangalore,0,11,6.7,8.9 Lakhs
+NISSAN,MICRA,PETROL,Orange,66258,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,0,14,7.5,2.95 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,52386,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,8,8.4,7.3 Lakhs
+TOYOTA,FORTUNER,DIESEL,White,127574,SUV,Manual,0,1st Owner,Karnataka,Bangalore,0,11,6.8,17.75 Lakhs
+MARUTI SUZUKI,SWIFT,DIESEL,Red,32909,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,7,8.2,7.75 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,PETROL,Silver,29723,HATCHBACK,Automatic,0,1st Owner,Karnataka,Bangalore,1,7,8.5,7.35 Lakhs
+RENAULT,KWID(2015_2019),PETROL,Red,26642,HATCHBACK,null,1,2nd Owner,Karnataka,Bangalore,1,9,8,4.2 Lakhs
+HYUNDAI,GRAND I10(2017-2020),PETROL,Orange,16806,HATCHBACK,null,1,1st Owner,Karnataka,Bangalore,1,7,8.5,6.1 Lakhs
+HYUNDAI,GRAND I10,PETROL,Blue,36735,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,7,8.4,6.25 Lakhs
+HONDA,AMAZE,PETROL,Silver,44043,SEDAN,Manual,0,1st Owner,Karnataka,Bangalore,1,10,7.8,5.65 Lakhs
+HONDA,JAZZ,PETROL,Maroon,64046,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,9,8,5.85 Lakhs
+HYUNDAI,ELITE I20,PETROL,Orange,25655,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,6,8.5,7.85 Lakhs
+HYUNDAI,VERNA,DIESEL,White,84310,SEDAN,null,0,1st Owner,Karnataka,Bangalore,1,10,7.4,6.95 Lakhs
+HONDA,AMAZE,PETROL,Red,54859,SEDAN,Manual,0,1st Owner,Karnataka,Bangalore,1,7,8.3,6.75 Lakhs
+HONDA,WR V,PETROL,Red,51346,SUV,null,0,1st Owner,Karnataka,Bangalore,1,7,8.1,8.75 Lakhs
+TATA,TIAGO,PETROL,Red,60937,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,6,8.4,6.1 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,PETROL,Red,24121,SEDAN,Manual,0,1st Owner,Karnataka,Bangalore,1,8,8.1,6.75 Lakhs
+HONDA,WR V,PETROL,Red,35298,SUV,null,0,1st Owner,Karnataka,Bangalore,1,6,8.2,8.85 Lakhs
+HYUNDAI,VENUE,PETROL,Forest Dew,42138,SUV,null,0,1st Owner,Karnataka,Bangalore,1,6,8.4,10.75 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Silky Silver,50708,HATCHBACK,null,1,2nd Owner,Karnataka,Bangalore,1,10,7.7,4.45 Lakhs
+MARUTI SUZUKI,ZEN ESTILO,PETROL,Beige,85211,HATCHBACK,Manual,1,1st Owner,Karnataka,Bangalore,0,16,7.2,2.4 Lakhs
+TATA,TIGOR(2018-2020),DIESEL,Red,13101,SEDAN,null,0,1st Owner,Karnataka,Bangalore,1,7,8.4,6.25 Lakhs
+VOLKSWAGEN,POLO(2012-2014),DIESEL,Red,75046,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,0,12,7.4,4.75 Lakhs
+MAHINDRA,XUV500,DIESEL,Black,59619,SUV,Manual,0,1st Owner,Karnataka,Bangalore,1,11,7,8.95 Lakhs
+MAHINDRA,KUV100,PETROL,Red,62001,HATCHBACK,null,1,1st Owner,Karnataka,Bangalore,1,9,8.1,4.55 Lakhs
+FORD,FIGO(2012-2015),DIESEL,Red,155000,HATCHBACK,null,0,2nd Owner,Karnataka,Bangalore,0,13,6.8,2.75 Lakhs
+RENAULT,TRIBER,PETROL,Orange,20796,MPV,null,0,1st Owner,Karnataka,Bangalore,1,6,8.6,7.25 Lakhs
+TATA,ALTROZ,PETROL,White,7779,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,3,9,8.95 Lakhs
+HONDA,JAZZ,PETROL,White,39145,HATCHBACK,null,1,1st Owner,Karnataka,Bangalore,1,10,7.5,6.25 Lakhs
+MARUTI SUZUKI,WAGON R 1.0,PETROL,Red,62139,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,7,8.4,5.5 Lakhs
+HONDA,CITY,PETROL,Purple,50130,SEDAN,Automatic,0,2nd Owner,Karnataka,Bangalore,0,13,6.4,5.49 Lakhs
+FORD,FIGO,PETROL,Silver,53230,HATCHBACK,Manual,1,1st Owner,Karnataka,Bangalore,0,14,7.2,2.85 Lakhs
+KIA,SELTOS,PETROL,White,33227,SUV,null,0,1st Owner,Karnataka,Bangalore,1,6,8.3,14 Lakhs
+MARUTI SUZUKI,CELERIO X,PETROL,Grey,30588,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,7,8.5,5.7 Lakhs
+MAHINDRA,XUV500,DIESEL,White,104000,SUV,Manual,1,1st Owner,Karnataka,Bangalore,0,10,6.9,9.75 Lakhs
+VOLKSWAGEN,POLO,PETROL,White,62700,HATCHBACK,Automatic,1,1st Owner,Karnataka,Bangalore,1,4,8.1,8.75 Lakhs
+MAHINDRA,SCORPIO,DIESEL,Black,133320,SUV,null,1,1st Owner,Karnataka,Bangalore,0,7,7,10.2 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,50041,HATCHBACK,null,1,1st Owner,Karnataka,Bangalore,1,8,8,7.35 Lakhs
+HYUNDAI,CRETA,PETROL,White,31516,SUV,null,0,1st Owner,Karnataka,Bangalore,1,7,7.9,12.75 Lakhs
+HYUNDAI,I20,PETROL,Red,58437,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,9,8.1,6.95 Lakhs
+HYUNDAI,I20,DIESEL,White,74960,HATCHBACK,Manual,0,2nd Owner,Karnataka,Bangalore,0,12,7.2,4.75 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,White,49808,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,4,8.5,7.5 Lakhs
+TATA,TIGOR,PETROL,Red,32073,SEDAN,null,0,1st Owner,Karnataka,Bangalore,1,7,8.4,6.45 Lakhs
+VOLKSWAGEN,AMEO,PETROL,White,33135,SEDAN,null,0,1st Owner,Karnataka,Bangalore,1,9,8,5.95 Lakhs
+NISSAN,MICRA ACTIVE,PETROL,Blue,44515,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,9,7.9,4.25 Lakhs
+FORD,FIGO ASPIRE,DIESEL,Silver,137388,SEDAN,null,0,1st Owner,Karnataka,Bangalore,0,9,7.1,3.95 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Grey,47129,HATCHBACK,Manual,1,1st Owner,Karnataka,Bangalore,1,7,8.5,7.35 Lakhs
+HYUNDAI,I20,DIESEL,White,108000,HATCHBACK,Manual,0,2nd Owner,Karnataka,Bangalore,0,11,7.1,4.95 Lakhs
+VOLKSWAGEN,POLO,PETROL,White,63088,HATCHBACK,Automatic,1,2nd Owner,Karnataka,Bangalore,1,8,7.6,9 Lakhs
+HYUNDAI,ELITE I20,PETROL,Red,45607,HATCHBACK,Manual,1,1st Owner,Karnataka,Bangalore,1,9,8,6.95 Lakhs
+FORD,ECOSPORT(2017-2019),DIESEL,Brown,63212,SUV,null,1,1st Owner,Karnataka,Bangalore,1,7,7.9,9.85 Lakhs
+NISSAN,KICKS,PETROL,White,40924,SUV,null,0,1st Owner,Karnataka,Bangalore,1,6,8.2,7.95 Lakhs
+HYUNDAI,SANTRO,PETROL,Silver,86140,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,0,22,6.3,1.65 Lakhs
+MARUTI SUZUKI,S PRESSO,PETROL,Silver Grey,3299,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,3,9.2,5.95 Lakhs
+HYUNDAI,EON,PETROL,White,62467,HATCHBACK,Manual,1,2nd Owner,Karnataka,Bangalore,0,13,7.5,2.75 Lakhs
+HYUNDAI,CRETA,PETROL,Silver,97335,SUV,null,0,1st Owner,Karnataka,Bangalore,1,8,7.2,9.25 Lakhs
+FORD,ECOSPORT,PETROL,White,63264,SUV,Manual,0,1st Owner,Karnataka,Bangalore,0,12,7,5.25 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Metalic Grey,28031,MPV,null,0,1st Owner,Karnataka,Bangalore,1,5,8.3,22.75 Lakhs
+FORD,ECOSPORT,PETROL,Bottle Green,76700,SUV,Manual,0,2nd Owner,Karnataka,Bangalore,0,10,7.1,5.89 Lakhs
+NISSAN,MICRA,PETROL,Orange,61431,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,0,14,7.3,2.95 Lakhs
+MAHINDRA,XUV300,DIESEL,Red,17193,SUV,null,0,1st Owner,Karnataka,Bangalore,1,4,8.8,11.25 Lakhs
+HONDA,JAZZ,PETROL,Cherry Red,49165,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,8,8,6.85 Lakhs
+FORD,FIGO,PETROL,Red,55950,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,10,7.8,5.45 Lakhs
+FORD,ECOSPORT,PETROL,Black,68778,SUV,null,0,1st Owner,Karnataka,Bangalore,1,9,7.7,6.75 Lakhs
+MAHINDRA,KUV100,DIESEL,White,45815,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,0,9,8,4.95 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Warm Grey,50159,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,7,8.4,6.65 Lakhs
+HONDA,CITY,PETROL,White,48325,SEDAN,Automatic,1,1st Owner,Karnataka,Bangalore,0,11,7.1,7.5 Lakhs
+MARUTI SUZUKI,CIAZ,PETROL,Blue,25029,SEDAN,null,0,1st Owner,Karnataka,Bangalore,1,6,8.4,9 Lakhs
+MAHINDRA,SCORPIO,DIESEL,Silver,195575,SUV,null,0,1st Owner,Karnataka,Bangalore,0,10,5.5,8.95 Lakhs
+TATA,TIAGO,PETROL,Brown,20361,HATCHBACK ,null,0,2nd Owner,Karnataka,Bangalore,1,6,8.4,6.45 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,White,60642,HATCHBACK,Manual,1,2nd Owner,Karnataka,Bangalore,1,11,7.6,5.35 Lakhs
+FORD,FIGO,DIESEL,Grey,122790,HATCHBACK,Manual,0,2nd Owner,Karnataka,Bangalore,0,12,6.9,2.95 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,White,30728,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,9,8,5.95 Lakhs
+RENAULT,KWID,PETROL,Red,30279,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,9,8.2,3.45 Lakhs
+BMW,X1(2010-2012),DIESEL,White,71653,SUV,null,0,3rd Owner,Karnataka,Bangalore,0,14,5.7,8.5 Lakhs
+RENAULT,KWID,PETROL,Silver,24191,HATCHBACK,null,1,1st Owner,Karnataka,Bangalore,1,7,8.5,4.95 Lakhs
+TATA,ALTROZ,PETROL,Red,20153,HATCHBACK,null,1,1st Owner,Karnataka,Bangalore,1,5,8.4,8.25 Lakhs
+RENAULT,KWID,PETROL,Brown,19126,HATCHBACK,null,1,1st Owner,Karnataka,Bangalore,1,9,8.3,3.95 Lakhs
+MARUTI SUZUKI,RITZ,PETROL,White,60060,HATCHBACK,Manual,1,2nd Owner,Karnataka,Bangalore,0,13,7.2,3.35 Lakhs
+MARUTI SUZUKI,CIAZ,PETROL,Maroon,26416,SEDAN,null,1,1st Owner,Karnataka,Bangalore,1,8,7.9,7.95 Lakhs
+HYUNDAI,EON,PETROL,Smoke Grey,56417,HATCHBACK,Manual,1,1st Owner,Karnataka,Bangalore,0,9,8.1,2.9 Lakhs
+RENAULT,KWID,PETROL,Brown,28107,HATCHBACK,null,0,2nd Owner,Karnataka,Bangalore,1,9,7.9,3.65 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Grey,53488,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,11,7.8,3.72 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Bluish Silver Met.,37180,MPV,null,1,1st Owner,Karnataka,Bangalore,1,8,7.8,17.5 Lakhs
+HONDA,AMAZE,PETROL,Grey,45529,SEDAN,Manual,0,1st Owner,Karnataka,Bangalore,1,6,8.4,7.75 Lakhs
+MARUTI SUZUKI,S PRESSO,PETROL,White,42260,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,3,8.8,5 Lakhs
+FORD,ECOSPORT(2021-2022),DIESEL,Black,45400,SUV,null,0,1st Owner,Karnataka,Bangalore,0,4,8.3,10.85 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Pearl White,38966,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,4,8.7,8.5 Lakhs
+TATA,NEXON,PETROL,White,53647,HATCHBACK,null,1,1st Owner,Karnataka,Bangalore,1,7,8.3,8.25 Lakhs
+HONDA,JAZZ,PETROL,Brown,67650,HATCHBACK,null,0,2nd Owner,Karnataka,Bangalore,0,10,7.5,5.45 Lakhs
+HYUNDAI,GRAND I10(2013-2017),PETROL,Grey,46767,HATCHBACK,null,0,2nd Owner,Karnataka,Bangalore,1,9,7.9,5.95 Lakhs
+MARUTI SUZUKI,EECO,PETROL,Blue,55231,VAN,Manual,0,1st Owner,Karnataka,Bangalore,1,8,8.2,4.25 Lakhs
+VOLKSWAGEN,AMEO,DIESEL,Dark Grey,70336,SEDAN,null,0,1st Owner,Karnataka,Bangalore,1,9,7.7,6.25 Lakhs
+KIA,CARENS,DIESEL,Dark Blue,43253,MPV,null,0,1st Owner,Karnataka,Bangalore,1,3,8.4,17.9 Lakhs
+HYUNDAI,CRETA,PETROL,White,24468,SUV,null,0,1st Owner,Karnataka,Bangalore,1,4,8.6,14.25 Lakhs
+HYUNDAI,ELITE I20,PETROL,Grey,47615,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,6,8.4,6.5 Lakhs
+HYUNDAI,ELITE I20,PETROL,Grey,34337,HATCHBACK,Automatic,0,1st Owner,Karnataka,Bangalore,1,8,8.1,7 Lakhs
+MAHINDRA,XYLO,DIESEL,Black,116959,MUV,Manual,0,1st Owner,Karnataka,Bangalore,0,11,6.8,4.75 Lakhs
+FORD,ECOSPORT,PETROL,Brown,94390,SUV,Manual,0,1st Owner,Karnataka,Bangalore,0,9,7.3,5.85 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,30149,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,7,8.2,7.5 Lakhs
+RENAULT,DUSTER,PETROL,Pearl White,35599,SUV,null,1,1st Owner,Karnataka,Bangalore,1,7,8,8.15 Lakhs
+FORD,ASPIRE,PETROL,Red,36961,SEDAN,null,0,1st Owner,Karnataka,Bangalore,1,10,7.8,4.95 Lakhs
+FORD,ASPIRE(2015_2018),PETROL,Smoke Grey,50130,SEDAN,null,0,1st Owner,Karnataka,Bangalore,1,10,7.5,5.45 Lakhs
+HYUNDAI,CRETA,PETROL,Intense Black,54260,SUV,null,0,1st Owner,Karnataka,Bangalore,1,4,8.3,11.75 Lakhs
+MAHINDRA,BOLERO,DIESEL,Diamond White,82484,SUV,null,1,1st Owner,Karnataka,Bangalore,1,7,7.7,8.85 Lakhs
+HYUNDAI,ELITE I20,PETROL,Red,48899,HATCHBACK,null,1,2nd Owner,Karnataka,Bangalore,1,7,8.1,8.3 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Grey,47538,HATCHBACK,null,1,1st Owner,Karnataka,Bangalore,0,8,8.3,5.45 Lakhs
+FORD,FIGO,PETROL,Black,43563,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,10,8,4.55 Lakhs
+DATSUN,GO,PETROL,Grey,37773,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,8,8.4,3.45 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Metalic Grey,45216,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,6,8.5,7.5 Lakhs
+TATA,TIAGO,PETROL,Red,11951,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,8,8.3,5.85 Lakhs
+HYUNDAI,I20,DIESEL,Blue,68017,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,0,8,8.1,7.95 Lakhs
+TATA,TIAGO,PETROL,Red,48928,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,0,7,8.4,5.95 Lakhs
+MARUTI SUZUKI,RITZ,DIESEL,Blue,94675,HATCHBACK,Manual,0,2nd Owner,Karnataka,Bangalore,0,15,6.9,3.45 Lakhs
+HYUNDAI,I20(2012-2014),PETROL,Silver,61207,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,11,7.6,4.95 Lakhs
+FORD,ECOSPORT,DIESEL,Orange,52126,SUV,Manual,0,2nd Owner,Karnataka,Bangalore,1,8,7.5,7.65 Lakhs
+RENAULT,KWID(2015_2019),PETROL,Red,25351,HATCHBACK,null,0,1st Owner,Karnataka,Bangalore,1,9,8.1,4.35 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,G. Red,93544,HATCHBACK,Manual,0,1st Owner,Karnataka,Bangalore,1,7,8,4.7 Lakhs
+HONDA,CITY,PETROL,Brown,48302,SEDAN,Manual,1,1st Owner,Maharashtra,Pune,1,8,7.6,7 Lakhs
+SKODA,RAPID,DIESEL,Silver,124654,SEDAN,null,0,1st Owner,Maharashtra,Pune,0,9,8.3,5.35 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Grey,25823,HATCHBACK,Manual,1,1st Owner,Maharashtra,Pune,1,11,8,4.25 Lakhs
+MARUTI SUZUKI,WAGON R 1.0,PETROL,Silver,32079,HATCHBACK,null,1,1st Owner,Maharashtra,Pune,1,7,7.9,5.5 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,White,35379,HATCHBACK,Manual,1,1st Owner,Maharashtra,Pune,1,7,8.2,5.25 Lakhs
+MG,HECTOR PLUS(2021-2023),DIESEL,Burgundy,101,SUV,null,0,1st Owner,Maharashtra,Pune,1,3,8.3,22.63 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,DIESEL,Grey,90535,SEDAN,Manual,0,1st Owner,Maharashtra,Pune,0,11,7.6,6 Lakhs
+JEEP,COMPASS,DIESEL,White,19550,SUV,null,0,1st Owner,Maharashtra,Pune,1,4,8,19 Lakhs
+HYUNDAI,ALCAZAR(2021-2023),PETROL,Grey,7920,SUV,null,0,1st Owner,Maharashtra,Pune,1,3,8.1,18 Lakhs
+HYUNDAI,VENUE,PETROL,White,45340,SUV,null,0,1st Owner,Maharashtra,Pune,1,4,8,9.5 Lakhs
+HYUNDAI,AURA,CNG,White,34866,SEDAN,null,1,1st Owner,Maharashtra,Pune,1,5,8.2,8.55 Lakhs
+HYUNDAI,ELANTRA,DIESEL,White,69165,SEDAN,Manual,1,1st Owner,Maharashtra,Pune,1,11,7.4,6.5 Lakhs
+MAHINDRA,XUV300,DIESEL,Red,34937,SUV,null,1,1st Owner,Maharashtra,Pune,1,5,7.9,12.51 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Red,57868,HATCHBACK,null,1,1st Owner,Maharashtra,Pune,1,7,7.8,9.21 Lakhs
+HONDA,JAZZ,PETROL,White,10000,HATCHBACK,null,1,1st Owner,Maharashtra,Pune,0,4,7.9,9.91 Lakhs
+MAHINDRA,SCORPIO,DIESEL,Blue,110000,SUV,null,1,2nd Owner,Maharashtra,Pune,0,11,7.4,8.61 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Purple,65000,HATCHBACK,Manual,1,1st Owner,Maharashtra,Pune,0,9,7.9,5.81 Lakhs
+VOLKSWAGEN,VENTO,DIESEL,Grey,80000,SEDAN,null,1,2nd Owner,Maharashtra,Pune,0,11,7.6,4.71 Lakhs
+HONDA,CITY ZX,PETROL,Brown,50000,SEDAN,Manual,1,3rd Owner,Maharashtra,Pune,0,17,6.8,2.55 Lakhs
+HYUNDAI,VERNA,PETROL,White,32115,SEDAN,Manual,0,2nd Owner,Maharashtra,Pune,1,8,7.7,7.5 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,DIESEL,Golden,79650,SEDAN,null,0,1st Owner,Maharashtra,Pune,1,7,8,7.75 Lakhs
+TOYOTA,ETIOS,PETROL,A Silver,120000,SEDAN,Manual,1,1st Owner,Maharashtra,Pune,0,13,7.4,3.6 Lakhs
+MARUTI SUZUKI,S CROSS,DIESEL,White,21435,SUV,null,0,1st Owner,Maharashtra,Pune,1,8,7.6,8.25 Lakhs
+HYUNDAI,ELITE I20(2018-2019),DIESEL,Red,73536,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,6,7.9,8 Lakhs
+FORD,ECOSPORT,PETROL,Silver,60848,SUV,null,0,1st Owner,Maharashtra,Pune,1,6,7.8,7.75 Lakhs
+VOLKSWAGEN,TAIGUN,PETROL,Grey,24137,SUV,null,0,1st Owner,Maharashtra,Pune,1,4,8,17 Lakhs
+MARUTI SUZUKI,WAGON R 1.0,PETROL,White,50000,HATCHBACK,Manual,1,1st Owner,Maharashtra,Pune,0,9,7.1,3.85 Lakhs
+VOLKSWAGEN,VENTO,PETROL,Silver,36531,SEDAN,null,1,1st Owner,Maharashtra,Pune,1,9,7.7,6.2 Lakhs
+HONDA,BRIO,PETROL,Urban Titanium,79640,HATCHBACK,Manual,0,1st Owner,Maharashtra,Pune,0,12,7,3.15 Lakhs
+HYUNDAI,I20,PETROL,White,80998,HATCHBACK,Manual,0,1st Owner,Maharashtra,Pune,1,12,6.4,4.5 Lakhs
+VOLKSWAGEN,POLO,PETROL,Red,57377,HATCHBACK,Manual,0,1st Owner,Maharashtra,Pune,1,9,7.2,6 Lakhs
+TATA,TIAGO,CNG,Grey,25620,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,3,8.9,7.8 Lakhs
+HONDA,AMAZE,PETROL,Brown,33887,SEDAN,Automatic,0,1st Owner,Maharashtra,Pune,1,7,7.4,7.4 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,PETROL,White,42291,SEDAN,Manual,0,1st Owner,Maharashtra,Pune,1,9,7.1,5.75 Lakhs
+MARUTI SUZUKI,CELERIO(2017-2019),PETROL,Pearl White,26905,HATCHBACK,null,1,2nd Owner,Maharashtra,Pune,1,7,8.5,5.3 Lakhs
+HONDA,WR V,PETROL,Red,15085,SUV,null,1,1st Owner,Maharashtra,Pune,1,6,7.5,7.75 Lakhs
+HONDA,WR V,PETROL,A Silver,38236,SUV,null,1,1st Owner,Maharashtra,Pune,1,7,8.3,8.2 Lakhs
+HYUNDAI,CRETA,DIESEL,Pearl White,88115,COMPACTSUV,null,1,1st Owner,Maharashtra,Pune,1,9,7.4,9.5 Lakhs
+JEEP,COMPASS,DIESEL,White,93235,SUV,null,0,1st Owner,Maharashtra,Pune,1,8,6.6,13.49 Lakhs
+HYUNDAI,VENUE(2020-2022),DIESEL,Pearl White,52535,SUV,null,1,1st Owner,Maharashtra,Pune,1,4,8.6,11.8 Lakhs
+MAHINDRA,XUV500,DIESEL,Arizona Grey,120989,SUV,Manual,1,1st Owner,Maharashtra,Pune,0,11,5.6,6.25 Lakhs
+MARUTI SUZUKI,ALTO 800,PETROL,Silky Silver,39112,HATCHBACK,Manual,1,1st Owner,Maharashtra,Pune,1,9,7.2,3.1 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,White,52170,SUV,null,0,1st Owner,Maharashtra,Pune,1,5,8.2,10.25 Lakhs
+MARUTI SUZUKI,CIAZ,PETROL,Silver,48500,SEDAN,null,0,1st Owner,Maharashtra,Pune,0,8,8.1,7.4 Lakhs
+KIA,SELTOS,DIESEL,Red,16594,SUV,null,0,1st Owner,Maharashtra,Pune,1,6,8.7,13.5 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,34587,HATCHBACK,null,1,1st Owner,Maharashtra,Pune,1,9,8,6.25 Lakhs
+HONDA,CITY,DIESEL,Brown,90330,SEDAN,Manual,0,2nd Owner,Maharashtra,Pune,0,10,6.2,7.3 Lakhs
+HYUNDAI,I10,PETROL,Silver,640000,HATCHBACK,Automatic,1,1st Owner,Maharashtra,Pune,0,13,7.5,3.5 Lakhs
+HONDA,CITY,DIESEL,Red,87415,SEDAN,Manual,1,2nd Owner,Maharashtra,Pune,1,10,6.3,6.5 Lakhs
+HONDA,AMAZE,DIESEL,Silver,79500,SEDAN,Manual,1,1st Owner,Maharashtra,Pune,0,12,6.3,4.4 Lakhs
+SKODA,RAPID,PETROL,Red,71669,SEDAN,Automatic,1,1st Owner,Maharashtra,Pune,1,8,6.8,7.25 Lakhs
+MARUTI SUZUKI,WAGON R 1.0,CNG,Blue,82000,HATCHBACK,Manual,Company1Fitted,1st Owner,Maharashtra,Pune,0,12,6.8,3.99 Lakhs
+HONDA,BRIO,PETROL,White,78422,HATCHBACK,Manual,0,1st Owner,Maharashtra,Pune,1,11,7,3.75 Lakhs
+HYUNDAI,GRAND I10 NIOS(2019-2023),CNG,Grey,62075,HATCHBACK,null,Company1Fitted,1st Owner,Maharashtra,Pune,1,4,7.6,7 Lakhs
+MAHINDRA,XUV500,DIESEL,White,76547,SUV,null,1,1st Owner,Maharashtra,Pune,1,6,7.1,15.5 Lakhs
+MARUTI SUZUKI,WAGON R,PETROL,Blue,74000,HATCHBACK,Manual,1,2nd Owner,Maharashtra,Pune,0,16,6.5,2.2 Lakhs
+VOLKSWAGEN,VENTO,PETROL,Black,63000,SEDAN,null,1,2nd Owner,Maharashtra,Pune,0,14,5.8,3.5 Lakhs
+MARUTI SUZUKI,BALENO,DIESEL,Red,89802,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,8,6.8,6.5 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,White,53471,HATCHBACK,Manual,0,1st Owner,Maharashtra,Pune,0,8,7.6,5.25 Lakhs
+VOLKSWAGEN,VENTO,PETROL,Black,71000,SEDAN,Automatic,0,2nd Owner,Maharashtra,Pune,0,15,5.7,3.4 Lakhs
+MARUTI SUZUKI,DZIRE,PETROL,Grey,41139,SEDAN,null,0,1st Owner,Maharashtra,Pune,1,6,7.8,7.9 Lakhs
+MARUTI SUZUKI,BALENO,DIESEL,Grey,33198,HATCHBACK,null,0,2nd Owner,Maharashtra,Pune,1,9,7.7,5.5 Lakhs
+HYUNDAI,AURA,PETROL,Grey,22821,SEDAN,null,0,1st Owner,Maharashtra,Pune,1,5,8.9,7.9 Lakhs
+VOLKSWAGEN,POLO,PETROL,Brown,32106,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,6,7.8,7.2 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Silver,43814,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,7,8.4,6.5 Lakhs
+MARUTI SUZUKI,WAGON R 1.0,PETROL,White,80876,HATCHBACK,Manual,After1Market,2nd Owner,Maharashtra,Pune,0,13,6.3,2.95 Lakhs
+VOLKSWAGEN,POLO,PETROL,White,62804,HATCHBACK,Manual,0,1st Owner,Maharashtra,Pune,0,12,7.5,4.35 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,DIESEL,Silver,83000,SEDAN,null,0,1st Owner,Maharashtra,Pune,0,8,6.7,7.49 Lakhs
+MG,HECTOR,PETROL,White,82679,SUV,null,0,1st Owner,Maharashtra,Pune,1,6,7.9,14.7 Lakhs
+HYUNDAI,GRAND I10,PETROL,Grey,38024,HATCHBACK,Manual,1,1st Owner,Maharashtra,Pune,1,6,8.8,6 Lakhs
+MAHINDRA,XUV500,DIESEL,White,74400,SUV,null,0,1st Owner,Maharashtra,Pune,0,7,6.8,13.8 Lakhs
+TATA,TIAGO,PETROL,A Blue,37042,HATCHBACK,null,1,1st Owner,Maharashtra,Pune,1,8,8.4,4.95 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Grey,24125,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,6,8.5,6.9 Lakhs
+TATA,TIAGO,PETROL,White,45390,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,4,8.9,6.25 Lakhs
+MARUTI SUZUKI,ERTIGA,PETROL,White,36617,MPV,null,1,1st Owner,Maharashtra,Pune,1,9,8.1,7.8 Lakhs
+MAHINDRA,XUV300,PETROL,White,41683,SUV,null,1,1st Owner,Maharashtra,Pune,1,4,8.7,11.25 Lakhs
+RENAULT,KWID,PETROL,A Blue,31683,HATCHBACK,null,1,1st Owner,Maharashtra,Pune,1,7,8.7,4 Lakhs
+TATA,TIAGO,DIESEL,A Blue,81788,HATCHBACK,null,1,1st Owner,Maharashtra,Pune,0,9,6,4.5 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Red,99000,HATCHBACK,null,1,1st Owner,Maharashtra,Pune,0,6,7.7,9.21 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Metalic Grey,32976,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,6,8.5,9.5 Lakhs
+RENAULT,DUSTER,DIESEL,Orange,102000,SUV,null,0,2nd Owner,Maharashtra,Pune,0,8,6.2,7.35 Lakhs
+HYUNDAI,EON,PETROL,Dark Grey,49917,HATCHBACK,Manual,1,1st Owner,Maharashtra,Pune,0,11,6.7,2.5 Lakhs
+HYUNDAI,ELITE I20,PETROL,Silver,87944,HATCHBACK,Manual,1,1st Owner,Maharashtra,Pune,1,7,7,6.75 Lakhs
+HONDA,CITY,PETROL,Black,91000,SEDAN,Manual,1,2nd Owner,Maharashtra,Pune,0,15,5.1,3 Lakhs
+MARUTI SUZUKI,CIAZ,DIESEL,Brown,45000,SEDAN,null,0,1st Owner,Maharashtra,Pune,0,8,6.5,7 Lakhs
+HYUNDAI,AURA,PETROL,Grey,15634,SEDAN,null,0,1st Owner,Maharashtra,Pune,1,4,8.7,8.5 Lakhs
+MARUTI SUZUKI,WAGON R 1.0,CNG,White,102197,HATCHBACK,Manual,Company1Fitted,2nd Owner,Maharashtra,Pune,0,11,6.4,3.5 Lakhs
+AUDI,A4,DIESEL,White,96000,SEDAN,Cvt,0,2nd Owner,Maharashtra,Pune,0,12,6.2,13 Lakhs
+MARUTI SUZUKI,CELERIO X,PETROL,White,58771,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,8,8.3,5.5 Lakhs
+HYUNDAI,TUCSON,DIESEL,White,125561,SUV,null,0,2nd Owner,Maharashtra,Pune,0,8,5.8,18 Lakhs
+HYUNDAI,TUCSON,DIESEL,Black,90386,SUV,null,0,1st Owner,Maharashtra,Pune,0,7,6.5,18 Lakhs
+HYUNDAI,CRETA,DIESEL,Black,170758,SUV,null,0,2nd Owner,Maharashtra,Pune,0,9,5.4,9.25 Lakhs
+MARUTI SUZUKI,ALTO K10,PETROL,White,71000,HATCHBACK,Manual,After1Market,2nd Owner,Maharashtra,Pune,0,7,6.7,3.5 Lakhs
+MARUTI SUZUKI,ERTIGA,PETROL,White,95509,MPV,null,0,1st Owner,Maharashtra,Pune,1,11,6.7,6.5 Lakhs
+TATA,NEXON,DIESEL,Beige Blue,95547,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,6,7.5,8.5 Lakhs
+HYUNDAI,I10,PETROL,White,54662,HATCHBACK,Manual,0,1st Owner,Maharashtra,Pune,0,15,7.1,2.8 Lakhs
+KIA,CARENS,DIESEL,Silver,12000,MPV,null,0,1st Owner,Maharashtra,Pune,0,3,8.9,18.5 Lakhs
+HYUNDAI,ELANTRA,PETROL,Pearl White,69000,SEDAN,null,0,2nd Owner,Maharashtra,Pune,0,7,7,9.1 Lakhs
+MAHINDRA,TUV 300,DIESEL,G. Red,86183,SUV,null,0,1st Owner,Maharashtra,Pune,1,8,7.6,8.5 Lakhs
+MARUTI SUZUKI,WAGON R 1.0,CNG,White,81236,HATCHBACK,Manual,Company1Fitted,1st Owner,Maharashtra,Pune,1,8,6.9,5.3 Lakhs
+HYUNDAI,I20,PETROL,White,64462,HATCHBACK,Manual,1,2nd Owner,Maharashtra,Pune,1,10,6.7,4.8 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Red,69768,SUV,null,0,1st Owner,Maharashtra,Pune,1,6,7.8,9 Lakhs
+TATA,MANZA(2011_2015),DIESEL,Wine Red,46624,SEDAN,null,1,2nd Owner,Maharashtra,Pune,0,12,6.4,3.65 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Grey,32547,HATCHBACK,Manual,0,1st Owner,Maharashtra,Pune,1,3,8.9,7.25 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Grey,23035,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,8,8.3,5.25 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,DIESEL,White,43252,SEDAN,null,0,1st Owner,Maharashtra,Pune,1,7,8,8.25 Lakhs
+MARUTI SUZUKI,EECO,CNG,Silver,40267,VAN,Manual,Company1Fitted,1st Owner,Maharashtra,Pune,0,7,7.3,5.25 Lakhs
+MAHINDRA,XUV300,DIESEL,Silver,69143,SUV,null,0,1st Owner,Maharashtra,Pune,0,4,7.2,11.25 Lakhs
+HYUNDAI,I10,PETROL,Red,17527,HATCHBACK,Manual,0,1st Owner,Maharashtra,Pune,1,12,7.6,3.5 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,PETROL,Blue,122145,SEDAN,Manual,0,3rd Owner,Maharashtra,Pune,0,17,5.5,2.25 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Grey,41814,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,8,8.1,6.25 Lakhs
+HYUNDAI,VERNA,DIESEL,Black,49261,SEDAN,null,0,1st Owner,Maharashtra,Pune,1,7,6.9,10.5 Lakhs
+HYUNDAI,i20,PETROL,White,16694,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,4,8.7,8.5 Lakhs
+MAHINDRA,SCORPIO,DIESEL,Silver,126307,SUV,null,0,1st Owner,Maharashtra,Pune,0,7,5.9,13.5 Lakhs
+MARUTI SUZUKI,SWIFT,DIESEL,White,46703,HATCHBACK,Manual,0,1st Owner,Maharashtra,Pune,0,6,8.4,8 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Silver,36433,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,11,6.9,3.95 Lakhs
+VOLKSWAGEN,VENTO,PETROL,Pearl White,65950,SEDAN,null,0,1st Owner,Maharashtra,Pune,1,9,6.8,6.4 Lakhs
+BMW,X1(2010-2012),DIESEL,Blue,104000,SUV,null,0,4th Owner,Maharashtra,Pune,0,14,5.1,5 Lakhs
+TATA,TIGOR,DIESEL,Red,58287,SEDAN,null,0,1st Owner,Maharashtra,Pune,0,7,7.2,5.85 Lakhs
+HONDA,CITY(2017-2020),PETROL,Red,106118,SEDAN,null,0,1st Owner,Maharashtra,Pune,0,8,7.2,6.8 Lakhs
+FORD,ECOSPORT,DIESEL,Diamond White,91160,SUV,Manual,0,1st Owner,Maharashtra,Pune,1,9,7,6.7 Lakhs
+MAHINDRA,BOLERO,DIESEL,Grey,80692,SUV,Manual,0,1st Owner,Maharashtra,Pune,0,13,6.7,4.8 Lakhs
+HYUNDAI,GRAND I10,DIESEL,Red,76050,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,8,7.9,5.3 Lakhs
+FORD,ECOSPORT(2017-2019),DIESEL,Red,50495,SUV,null,0,1st Owner,Maharashtra,Pune,1,7,8,9.05 Lakhs
+MAHINDRA,TUV 300,DIESEL,Black,38936,SUV,null,0,2nd Owner,Maharashtra,Pune,1,9,7.1,7.3 Lakhs
+HYUNDAI,GRAND I10,PETROL,White,62560,HATCHBACK,Manual,0,1st Owner,Maharashtra,Pune,1,8,7.1,5.1 Lakhs
+MARUTI SUZUKI,ALTO,PETROL,Red,94201,HATCHBACK,Manual,After1Market,2nd Owner,Maharashtra,Pune,0,14,5.7,"95,000"
+VOLKSWAGEN,POLO,DIESEL,White,57970,HATCHBACK,Manual,0,1st Owner,Maharashtra,Pune,1,11,6.3,5.95 Lakhs
+VOLKSWAGEN,VENTO,DIESEL,White,95642,SEDAN,null,0,1st Owner,Maharashtra,Pune,1,9,7,8.5 Lakhs
+MARUTI SUZUKI,WAGON R,PETROL,Silver,85319,HATCHBACK,Manual,Company1Fitted,1st Owner,Maharashtra,Pune,1,8,8,4.75 Lakhs
+MAHINDRA,XUV500,DIESEL,Silver,34833,SUV,null,0,1st Owner,Maharashtra,Pune,1,6,8.1,13.5 Lakhs
+TOYOTA,INNOVA(2012-2013),DIESEL,Silver,177666,MPV,null,0,1st Owner,Maharashtra,Pune,0,13,4.8,7.9 Lakhs
+MAHINDRA,VERITO(2011-2012),DIESEL,Silver,41575,SEDAN,null,0,1st Owner,Maharashtra,Pune,0,13,7,2.75 Lakhs
+MAHINDRA,TUV 300,DIESEL,G. Red,32763,SUV,null,0,2nd Owner,Maharashtra,Pune,1,9,7.4,7.5 Lakhs
+VOLKSWAGEN,POLO,DIESEL,Silver,88413,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,10,6.4,5.6 Lakhs
+TATA,NEXON,DIESEL,G. Red,41693,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,7,8,8.9 Lakhs
+MARUTI SUZUKI,S CROSS,DIESEL,Chocolate Brown,100923,SUV,null,0,2nd Owner,Maharashtra,Pune,0,9,6.3,6.25 Lakhs
+MAHINDRA,XUV 500,DIESEL,Silver,55963,SUV,null,0,1st Owner,Maharashtra,Pune,1,10,7,11 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Red,12364,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,7,8.3,6.75 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Pearl White,84169,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,9,7.9,4.25 Lakhs
+MARUTI SUZUKI,ERTIGA,DIESEL,White,54452,MUV,Manual,0,1st Owner,Maharashtra,Pune,1,10,7.3,8.5 Lakhs
+TOYOTA,FORTUNER,DIESEL,White,110255,SUV,Automatic,0,1st Owner,Maharashtra,Pune,0,12,6.5,15.5 Lakhs
+MARUTI SUZUKI,A STAR,PETROL,Silver,86784,HATCHBACK,Manual,0,2nd Owner,Maharashtra,Pune,0,11,7.1,2.5 Lakhs
+MARUTI SUZUKI,WAGON R,PETROL,Grey,3937,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,4,9,6.4 Lakhs
+MARUTI SUZUKI,SWIFT,DIESEL,Grey,120584,HATCHBACK,Manual,0,2nd Owner,Maharashtra,Pune,0,16,5.6,2.85 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Grey,53246,HATCHBACK,null,0,1st Owner,Maharashtra,Pune,1,8,8,6.85 Lakhs
+VOLKSWAGEN,AMEO,PETROL,Brown,51550,SEDAN,null,0,1st Owner,Maharashtra,Pune,1,8,7.2,5 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Brown,38072,MPV,null,1,1st Owner,Delhi,Delhi,1,9,7.4,15.5 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Grey,48714,MPV,null,1,1st Owner,Delhi,Delhi,1,6,7.8,18.4 Lakhs
+KIA,SONET,DIESEL,Cherry Red,6270,SUV,null,1,1st Owner,Delhi,Delhi,1,4,8,12.75 Lakhs
+HYUNDAI,I20,PETROL,A Blue,73301,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,10,7.8,4.9 Lakhs
+TOYOTA,COROLLA ALTIS,PETROL,White,82593,SEDAN,Manual,0,2nd Owner,Delhi,Delhi,0,13,6.9,4.35 Lakhs
+TOYOTA,FORTUNER,DIESEL,Metallic Silver,72907,SUV,null,0,1st Owner,Delhi,Delhi,1,8,7.6,28.75 Lakhs
+TOYOTA,FORTUNER (2012_2016),DIESEL,White,130000,SUV,null,1,2nd Owner,Delhi,Delhi,0,10,7.7,15.5 Lakhs
+AUDI,A4,DIESEL,Brown,55000,SEDAN,Cvt,1,1st Owner,Delhi,Delhi,0,12,7.5,10.9 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Riviera Red,77674,MPV,null,1,1st Owner,Delhi,Delhi,1,7,7.6,18.75 Lakhs
+ISUZU,V CROSS,DIESEL,White,38805,SUV,null,1,1st Owner,Delhi,Delhi,1,9,8,12.5 Lakhs
+MARUTI SUZUKI,SWIFT(2014_2018),DIESEL,Grey,29659,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,8,8.1,5.25 Lakhs
+FORD,ECOSPORT,PETROL,Moondust Silver,65750,SUV,null,1,1st Owner,Delhi,Delhi,1,7,7.7,8.35 Lakhs
+HYUNDAI,CRETA,CNG,Black,48795,SUV,Automatic,1,1st Owner,Delhi,Delhi,1,8,7.5,10.75 Lakhs
+JEEP,COMPASS,PETROL,Grey,39136,SUV,null,1,1st Owner,Delhi,Delhi,1,7,7.6,12.25 Lakhs
+MARUTI SUZUKI,S PRESSO,PETROL,Red,18794,HATCHBACK,null,0,1st Owner,Delhi,Delhi,1,4,8.2,4.75 Lakhs
+FORD,ECOSPORT,PETROL,Brown,38752,SUV,Manual,1,1st Owner,Delhi,Delhi,1,9,7.6,6.75 Lakhs
+FORD,ENDEAVOUR(2016_2019),DIESEL,Silver,74686,SUV,null,1,1st Owner,Delhi,Delhi,1,8,7.8,26.75 Lakhs
+FORD,ENDEAVOUR,DIESEL,Silver,57036,SUV,null,1,1st Owner,Delhi,Delhi,1,6,7.7,32.5 Lakhs
+SKODA,OCTAVIA(2015-2017),PETROL,Silver,63758,SEDAN,null,1,2nd Owner,Delhi,Delhi,1,9,7.4,13.75 Lakhs
+HONDA,WR V,DIESEL,Silver,55900,SUV,null,1,1st Owner,Delhi,Delhi,1,8,7.5,7.35 Lakhs
+HONDA,JAZZ,PETROL,White,50542,HATCHBACK,null,0,1st Owner,Delhi,Delhi,0,8,7.8,5.95 Lakhs
+FORD,ECOSPORT,DIESEL,Silver,52903,SUV,Manual,1,1st Owner,Delhi,Delhi,1,7,7.8,8.25 Lakhs
+FORD,ENDEAVOUR(2016_2019),DIESEL,Grey,69955,SUV,null,1,1st Owner,Delhi,Delhi,1,8,7.6,26.75 Lakhs
+KIA,SELTOS,PETROL,Star Silver,15722,SUV,null,0,1st Owner,Delhi,Delhi,1,5,7.9,15.85 Lakhs
+HYUNDAI,CRETA,DIESEL,Brown,83986,COMPACTSUV,Automatic,1,1st Owner,Delhi,Delhi,1,8,7.7,10 Lakhs
+MAHINDRA,XUV 500,DIESEL,White,78669,SUV,null,1,1st Owner,Delhi,Delhi,1,7,7.7,12.25 Lakhs
+HONDA,CRV,PETROL,Urban Titanium,83688,SUV,Automatic,1,1st Owner,Delhi,Delhi,1,11,7.2,10.9 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,PETROL,Grey,45416,SEDAN,null,1,1st Owner,Delhi,Delhi,1,10,7.5,4.5 Lakhs
+HYUNDAI,CRETA,DIESEL,Black,32828,SUV,null,1,1st Owner,Delhi,Delhi,1,4,8.7,19.75 Lakhs
+AUDI,A3,DIESEL,White,40000,SEDAN,Automatic,1,2nd Owner,Delhi,Delhi,0,10,7.3,12.75 Lakhs
+AUDI,Q3(2012-2015),DIESEL,Grey,83000,SUV,null,1,1st Owner,Delhi,Delhi,0,11,7.3,14.75 Lakhs
+TOYOTA,COROLLA ALTIS(2014-2017),PETROL,Grey,64526,SEDAN,null,1,1st Owner,Delhi,Delhi,1,11,7.1,8.5 Lakhs
+MAHINDRA,XUV500(2015_2017),DIESEL,White,65000,SUV,null,1,1st Owner,Delhi,Delhi,0,8,7.8,10.85 Lakhs
+HONDA,WR V,PETROL,Silver,58519,SUV,null,0,1st Owner,Delhi,Delhi,1,7,7.6,8.7 Lakhs
+HYUNDAI,NEW ELANTRA,PETROL,White,98000,SEDAN,Automatic,1,2nd Owner,Delhi,Delhi,0,11,6.9,6.75 Lakhs
+VOLVO,V40,DIESEL,White,76000,SEDAN,null,1,2nd Owner,Delhi,Delhi,0,9,7.3,12.5 Lakhs
+SKODA,SUPERB,PETROL,Metallic Black,49451,Sedan,null,1,1st Owner,Delhi,Delhi,1,11,7.4,11.5 Lakhs
+MAHINDRA,XUV700,PETROL,White,1625,SUV,null,1,1st Owner,Delhi,Delhi,1,3,9.4,19.75 Lakhs
+RENAULT,KWID,PETROL,White,14316,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,6,9,3.8 Lakhs
+MAHINDRA,XUV300,DIESEL,Silver,33109,SUV,null,1,1st Owner,Delhi,Delhi,1,4,8.8,12.35 Lakhs
+TOYOTA,COROLLA ALTIS(2017-2020),PETROL,White,33829,SEDAN,null,0,1st Owner,Delhi,Delhi,1,6,8.6,13.75 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Red,58109,SUV,null,1,1st Owner,Delhi,Delhi,1,8,8.4,7.25 Lakhs
+HONDA,AMAZE,PETROL,Silver,54272,SEDAN,null,1,1st Owner,Delhi,Delhi,1,9,8.3,5.3 Lakhs
+HONDA,CITY,PETROL,White,52000,SEDAN,Manual,1,1st Owner,Delhi,Delhi,0,13,6.4,3.9 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,A Silver,25491,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,3,9.2,5.95 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,PETROL,White,45408,SEDAN,Manual,1,1st Owner,Delhi,Delhi,1,9,8.4,5.45 Lakhs
+KIA,SELTOS(2020-2022),DIESEL,Silver,50553,SUV,null,1,1st Owner,Delhi,Delhi,1,4,8.3,18.5 Lakhs
+TOYOTA,GLANZA(2020-2022),PETROL,White,11024,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,3,9,9.75 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Red,15754,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,4,9.1,7.5 Lakhs
+RENAULT,KWID,PETROL,White,45056,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,8,8.5,2.45 Lakhs
+MAHINDRA,XUV 500,DIESEL,Pearl White,46377,SUV,null,1,1st Owner,Delhi,Delhi,1,8,7.9,10.5 Lakhs
+VOLKSWAGEN,VENTO,PETROL,Black,79958,SEDAN,null,1,1st Owner,Delhi,Delhi,1,9,7.5,6.8 Lakhs
+HYUNDAI,I20,PETROL,Silver,90000,HATCHBACK,Manual,1,2nd Owner,Delhi,Delhi,0,13,7,2.75 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Pearl White,5302,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,3,9.4,9.75 Lakhs
+MITSUBISHI,PAJERO SPORT,DIESEL,Black,76000,SUV,Manual,1,1st Owner,Delhi,Delhi,0,12,7.1,8.5 Lakhs
+MARUTI SUZUKI,DZIRE,PETROL,Grey,55911,SEDAN,null,1,1st Owner,Delhi,Delhi,1,7,8.3,7.5 Lakhs
+MERCEDES BENZ,CLA CLASS,PETROL,Red,57559,SEDAN,null,1,1st Owner,Delhi,Delhi,1,7,8.2,26.9 Lakhs
+MARUTI SUZUKI,WAGON R,CNG,Silver,25582,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,4,9.1,6.25 Lakhs
+MAHINDRA,XUV500(2015_2017),DIESEL,A Blue,56822,SUV,null,1,1st Owner,Delhi,Delhi,1,10,7.5,8.5 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Brown,61000,MPV,null,1,1st Owner,Delhi,Delhi,0,8,8,17.5 Lakhs
+HONDA,JAZZ,PETROL,A Silver,56444,HATCHBACK,null,1,2nd Owner,Delhi,Delhi,1,9,7.7,5.75 Lakhs
+HONDA,JAZZ,PETROL,Urban Titanium,47322,HATCHBACK,Manual,1,1st Owner,Delhi,Delhi,1,10,8.1,4.85 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Grey,68456,MPV,null,1,1st Owner,Delhi,Delhi,1,9,7.8,14.75 Lakhs
+FORD,ENDEAVOUR(2016_2019),DIESEL,White,16337,SUV,null,1,1st Owner,Delhi,Delhi,1,7,8.3,31 Lakhs
+RENAULT,KIGER(2021-2022),PETROL,White,1801,SUV,null,0,1st Owner,Delhi,Delhi,1,3,9.4,8.35 Lakhs
+HYUNDAI,CRETA,PETROL,Red,25643,COMPACTSUV,null,1,1st Owner,Delhi,Delhi,1,7,8.3,13.25 Lakhs
+SKODA,KUSHAQ,PETROL,Grey,10181,SUV,null,1,1st Owner,Delhi,Delhi,1,4,9.1,16.75 Lakhs
+TOYOTA,COROLLA ALTIS(2014-2017),PETROL,Grey,75000,SEDAN,null,1,1st Owner,Delhi,Delhi,0,10,7.1,8.9 Lakhs
+HONDA,CITY(2011-2014),PETROL,Red,68000,SEDAN,null,1,1st Owner,Delhi,Delhi,0,13,6.5,4.5 Lakhs
+SKODA,SUPERB,PETROL,Black,65565,SEDAN,null,1,1st Owner,Delhi,Delhi,1,6,7.8,25 Lakhs
+TOYOTA,FORTUNER,DIESEL,White,114000,SUV,null,1,1st Owner,Delhi,Delhi,0,6,7.4,33 Lakhs
+TOYOTA,CAMRY,PETROL,White,62532,SEDAN,null,1,1st Owner,Delhi,Delhi,1,9,7.5,21 Lakhs
+HYUNDAI,I20,PETROL,Silver,30166,HATCHBACK,Manual,1,1st Owner,Delhi,Delhi,1,8,8.5,6.25 Lakhs
+BMW,5 SERIES,DIESEL,Black,90000,SEDAN,null,1,1st Owner,Delhi,Delhi,0,9,7.4,20.9 Lakhs
+FORD,ECOSPORT,PETROL,A Silver,64004,SUV,null,1,1st Owner,Delhi,Delhi,1,10,7.6,5.95 Lakhs
+MAHINDRA,XUV 500,DIESEL,Other,62091,SUV,null,0,1st Owner,Delhi,Delhi,1,8,7.8,10.5 Lakhs
+HYUNDAI,CRETA,DIESEL,Other,57380,COMPACTSUV,null,0,1st Owner,Delhi,Delhi,1,10,7.5,8.25 Lakhs
+HYUNDAI,VERNA(2017-2020),PETROL,Black,48751,SEDAN,null,1,2nd Owner,Delhi,Delhi,1,7,8.1,8.7 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,White,44719,MPV,null,0,2nd Owner,Delhi,Delhi,1,8,7.7,18.25 Lakhs
+TOYOTA,COROLLA ALTIS(2014-2017),PETROL,White,110000,SEDAN,null,0,1st Owner,Delhi,Delhi,0,11,7,8.5 Lakhs
+SKODA,OCTAVIA,PETROL,White,56869,SEDAN,null,1,1st Owner,Delhi,Delhi,1,8,8,12.5 Lakhs
+HYUNDAI,ELANTRA,PETROL,Black,64000,SEDAN,null,1,1st Owner,Delhi,Delhi,0,12,7,6.25 Lakhs
+HONDA,AMAZE,PETROL,Red,50898,SEDAN,Manual,1,1st Owner,Delhi,Delhi,1,6,8.5,5.95 Lakhs
+SKODA,OCTAVIA,PETROL,A Silver,49832,SEDAN,Automatic,1,1st Owner,Delhi,Delhi,1,11,7.3,10.5 Lakhs
+MG,HECTOR PLUS(2021-2023),DIESEL,Black,884,SUV,null,1,1st Owner,Delhi,Delhi,1,2,9.4,22 Lakhs
+TOYOTA,INNOVA,DIESEL,Silver,71063,SUV,Manual,1,1st Owner,Delhi,Delhi,1,11,7.4,8.75 Lakhs
+MG,ASTOR,PETROL,White,9493,SUV,null,1,2nd Owner,Delhi,Delhi,1,4,8.3,16.25 Lakhs
+TATA,NEXON,PETROL,White,45555,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,6,8.5,7.5 Lakhs
+JEEP,COMPASS,DIESEL,A Silver,39936,SUV,null,1,1st Owner,Delhi,Delhi,1,8,8,11.9 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Golden Beige,54104,MPV,null,1,1st Owner,Delhi,Delhi,1,6,8,18.25 Lakhs
+HONDA,CRV,PETROL,A Silver,75000,SUV,Automatic,1,3rd Owner,Delhi,Delhi,0,11,6.5,9.5 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,White,32596,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,3,8.9,7.5 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Grey,17243,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,7,8.4,7.25 Lakhs
+HONDA,JAZZ,PETROL,Brown,41000,HATCHBACK,null,1,2nd Owner,Delhi,Delhi,0,8,7.6,5.95 Lakhs
+HONDA,CITY 5TH GEN,PETROL,A Silver,37838,SEDAN,null,1,1st Owner,Delhi,Delhi,1,4,8.1,10.5 Lakhs
+RENAULT,TRIBER,PETROL,Silver,10064,MPV,null,1,1st Owner,Delhi,Delhi,1,5,8.7,6.6 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Red,33962,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,8,8.3,5.35 Lakhs
+MAHINDRA,XUV500(2017_2018),DIESEL,White,62915,SUV,null,1,1st Owner,Delhi,Delhi,1,8,7.6,9.9 Lakhs
+BMW,X1,DIESEL,Orange,44300,SUV,Automatic,1,1st Owner,Delhi,Delhi,0,11,7,10.9 Lakhs
+AUDI,A3,DIESEL,White,47549,SEDAN,null,1,1st Owner,Delhi,Delhi,0,11,6.9,12.5 Lakhs
+HYUNDAI,CRETA,PETROL,White,36823,COMPACTSUV,null,1,1st Owner,Delhi,Delhi,1,9,7.6,8.1 Lakhs
+KIA,SELTOS(2020-2022),PETROL,White,24518,SUV,null,1,1st Owner,Delhi,Delhi,1,5,8.6,11.25 Lakhs
+SKODA,OCTAVIA(2015-2017),PETROL,Silver,72344,SEDAN,null,1,1st Owner,Delhi,Delhi,1,9,7.3,10.75 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Grey,85420,MPV,null,1,1st Owner,Delhi,Delhi,1,7,7.4,16 Lakhs
+MERCEDES BENZ,C CLASS,PETROL,A Silver,82000,SEDAN,Automatic,1,2nd Owner,Delhi,Delhi,0,14,5.8,6.75 Lakhs
+HONDA,CITY(2011-2014),PETROL,Golden Beige,84000,SEDAN,null,After1Market,2nd Owner,Delhi,Delhi,0,13,6.5,4.25 Lakhs
+HYUNDAI,GRAND I10,PETROL,Stain Grey,65000,HATCHBACK,Automatic,1,1st Owner,Delhi,Delhi,0,10,8,4.75 Lakhs
+MARUTI SUZUKI,DZIRE,PETROL,A Silver,14905,SEDAN,null,1,1st Owner,Delhi,Delhi,1,7,8.4,6.75 Lakhs
+HYUNDAI,CRETA,PETROL,A Blue,68400,SUV,null,1,1st Owner,Delhi,Delhi,1,8,7.8,7.9 Lakhs
+MERCEDES BENZ,CLA CLASS,DIESEL,Dark Blue,13504,SEDAN,null,1,1st Owner,Delhi,Delhi,1,6,8.3,28.5 Lakhs
+JEEP,COMPASS,DIESEL,Silver,38751,SUV,null,1,1st Owner,Delhi,Delhi,1,7,7.9,14.5 Lakhs
+HONDA,CITY,PETROL,White,54219,SEDAN,null,1,2nd Owner,Delhi,Delhi,1,9,7.4,7.95 Lakhs
+MERCEDES BENZ,C CLASS,PETROL,White,34000,SEDAN,Automatic,1,1st Owner,Delhi,Delhi,0,15,5.9,8.75 Lakhs
+FORD,ENDEAVOUR,DIESEL,Red,64788,SUV,null,1,2nd Owner,Delhi,Delhi,1,8,7.4,23.9 Lakhs
+AUDI,A6(2011-2015),DIESEL,Grey,77000,SEDAN,null,1,1st Owner,Delhi,Delhi,0,12,6.2,8.25 Lakhs
+TOYOTA,COROLLA ALTIS,PETROL,A Silver,80000,SEDAN,Automatic,1,2nd Owner,Delhi,Delhi,0,13,5.8,4.5 Lakhs
+SKODA,SUPERB,PETROL,Grey,67615,Sedan,null,1,2nd Owner,Delhi,Delhi,1,12,6.5,6.75 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,White,22376,HATCHBACK,null,1,1st Owner,Delhi,Delhi,0,4,8.8,6.9 Lakhs
+MARUTI SUZUKI,XL6,PETROL,Silver,17814,MPV,null,1,2nd Owner,Delhi,Delhi,1,5,8.2,12.95 Lakhs
+MARUTI SUZUKI,CIAZ,PETROL,Silver,73812,SEDAN,null,1,1st Owner,Delhi,Delhi,1,7,7.8,6.9 Lakhs
+FORD,ECOSPORT,DIESEL,White,60790,SUV,null,1,1st Owner,Delhi,Delhi,1,7,8,7.8 Lakhs
+TATA,HEXA,DIESEL,White,14713,SUV,null,1,1st Owner,Delhi,Delhi,1,7,8,11.25 Lakhs
+HYUNDAI,CRETA,PETROL,White,50264,COMPACTSUV,null,1,1st Owner,Delhi,Delhi,1,8,7.6,10 Lakhs
+HONDA,CITY,DIESEL,Cherry,60752,SEDAN,null,1,1st Owner,Delhi,Delhi,0,11,7,3.75 Lakhs
+MG,HECTOR PLUS,PETROL,White,4468,SUV,null,1,1st Owner,Delhi,Delhi,1,2,9,22.75 Lakhs
+HONDA,WR V,PETROL,White,48262,SUV,null,1,1st Owner,Delhi,Delhi,1,8,7.8,6.75 Lakhs
+HONDA,CITY,PETROL,White,22101,SEDAN,Automatic,1,1st Owner,Delhi,Delhi,1,9,7.5,7.75 Lakhs
+MAHINDRA,XUV 500,DIESEL,White,54131,SUV,null,1,1st Owner,Delhi,Delhi,1,9,7.3,9.8 Lakhs
+VOLKSWAGEN,TIGUAN,DIESEL,Silver,44191,SUV,null,1,1st Owner,Delhi,Delhi,1,8,7.7,19.5 Lakhs
+TOYOTA,FORTUNER,DIESEL,White,43621,SUV,null,1,1st Owner,Delhi,Delhi,1,7,8,27.5 Lakhs
+AUDI,A6,DIESEL,Black,49000,SEDAN,null,1,1st Owner,Delhi,Delhi,0,10,7.2,14.75 Lakhs
+AUDI,A6,DIESEL,White,22000,SEDAN,Automatic,1,1st Owner,Delhi,Delhi,0,11,6.9,14.5 Lakhs
+HYUNDAI,VERNA,PETROL,Black,55176,SEDAN,null,1,1st Owner,Delhi,Delhi,1,6,8.3,9.25 Lakhs
+MAHINDRA,KUV100,PETROL,Orange,13812,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,8,8.3,4.5 Lakhs
+HONDA,ACCORD,PETROL,Urban Titanium,82000,SEDAN,Automatic,1,2nd Owner,Delhi,Delhi,0,14,5.8,4.75 Lakhs
+MARUTI SUZUKI,DZIRE,CNG,Metallic Grey,25590,SEDAN,null,1,1st Owner,Delhi,Delhi,1,3,8.8,8.75 Lakhs
+HONDA,CITY,PETROL,White,31341,SEDAN,null,1,1st Owner,Delhi,Delhi,1,6,7.9,10.25 Lakhs
+TOYOTA,COROLLA ALTIS,PETROL,White,40565,SEDAN,Manual,1,1st Owner,Delhi,Delhi,1,7,8,14.75 Lakhs
+MAHINDRA,XUV700,PETROL,White,23782,SUV,null,1,1st Owner,Delhi,Delhi,1,4,8.8,24.85 Lakhs
+VOLKSWAGEN,VIRTUS,PETROL,White,10675,SEDAN,null,1,1st Owner,Delhi,Delhi,1,3,9,14.75 Lakhs
+HONDA,WR V,PETROL,Modern Grey,13061,SUV,null,1,1st Owner,Delhi,Delhi,1,6,8.4,8.75 Lakhs
+HYUNDAI,CRETA,PETROL,Black,60914,COMPACTSUV,null,1,1st Owner,Delhi,Delhi,1,10,7.3,8.5 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Silver,48144,MPV,null,1,1st Owner,Delhi,Delhi,1,7,7.8,18.75 Lakhs
+MAHINDRA,XUV700,DIESEL,Silver,30641,SUV,null,1,2nd Owner,Delhi,Delhi,1,4,8.3,23.35 Lakhs
+RENAULT,DUSTER,PETROL,Orange,39692,SUV,null,1,1st Owner,Delhi,Delhi,1,8,7.9,5.85 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,White,52634,HATCHBACK,Manual,1,1st Owner,Delhi,Delhi,1,5,8.4,5.75 Lakhs
+HONDA,CITY(2017-2020),PETROL,A Silver,72242,SEDAN,null,1,1st Owner,Delhi,Delhi,1,7,7.5,8 Lakhs
+MG,HECTOR PLUS(2021-2023),PETROL,White,20661,SUV,null,1,2nd Owner,Delhi,Delhi,1,4,8.4,16 Lakhs
+MARUTI SUZUKI,ALTO 800,PETROL,Grey,48662,HATCHBACK,Manual,1,1st Owner,Delhi,Delhi,1,11,7.8,2.1 Lakhs
+HYUNDAI,SANTRO,PETROL,Stain Grey,28574,HATCHBACK,null,1,2nd Owner,Delhi,Delhi,1,6,8.3,4.4 Lakhs
+TOYOTA,FORTUNER (2012_2016),DIESEL,White,62923,SUV,null,0,1st Owner,Delhi,Delhi,1,11,6.9,14.75 Lakhs
+MERCEDES BENZ,E-CLASS(2015-2017),DIESEL,Black,70123,SEDAN,null,0,1st Owner,Delhi,Delhi,0,8,7.5,20 Lakhs
+DATSUN,GO,PETROL,Blue,23135,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,11,7.8,2.5 Lakhs
+MERCEDES BENZ,E-CLASS(2013-2015),DIESEL,Black,54123,SEDAN,null,1,1st Owner,Delhi,Delhi,0,10,7.1,18.5 Lakhs
+MARUTI SUZUKI,DZIRE(2017-2020),PETROL,White,36719,SEDAN,null,1,1st Owner,Delhi,Delhi,1,7,8.3,6.3 Lakhs
+HYUNDAI,I20,PETROL,Dark Blue,5588,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,2,9.1,8.9 Lakhs
+HONDA,BRIO,PETROL,A Blue,41000,HATCHBACK,Manual,1,1st Owner,Delhi,Delhi,0,12,7.6,3.5 Lakhs
+TOYOTA,COROLLA ALTIS,PETROL,Gold,67280,SEDAN,Manual,1,1st Owner,Delhi,Delhi,1,10,7.2,8.5 Lakhs
+HYUNDAI,CRETA,PETROL,White,24057,SUV,null,1,1st Owner,Delhi,Delhi,1,3,8.8,17.35 Lakhs
+MAHINDRA,XUV700,PETROL,Silver,29938,SUV,null,1,1st Owner,Delhi,Delhi,1,3,8.4,23 Lakhs
+MAHINDRA,SCORPIO,DIESEL,White,72605,SUV,null,1,1st Owner,Delhi,Delhi,1,8,7.7,9.9 Lakhs
+TATA,NEXON,PETROL,Green,14602,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,4,8.8,9.25 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Metalic Grey,26190,HATCHBACK,Manual,1,1st Owner,Delhi,Delhi,1,7,8.4,5.25 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Pearl White,43722,HATCHBACK,Manual,1,1st Owner,Delhi,Delhi,1,4,8.8,5.9 Lakhs
+TOYOTA,URBAN CRUISER HYRYDER,HYBRID,White,16532,SUV,null,1,1st Owner,Delhi,Delhi,1,2,9,18.75 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,PETROL,Grey,10252,SUV,null,1,1st Owner,Delhi,Delhi,1,5,8.6,10.25 Lakhs
+HYUNDAI,I20,PETROL,A Blue,45704,HATCHBACK,Manual,1,1st Owner,Delhi,Delhi,1,9,8.1,5.5 Lakhs
+HYUNDAI,I20,PETROL,White,52453,HATCHBACK,null,1,2nd Owner,Delhi,Delhi,1,8,7.9,5.5 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Red,44294,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,8,7.9,6.95 Lakhs
+TOYOTA,GLANZA,PETROL,Silver,39204,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,6,8.5,7.75 Lakhs
+MAHINDRA,KUV100(2016_2017),DIESEL,C Silver,38759,SUV ,null,1,1st Owner,Delhi,Delhi,1,9,8,4.5 Lakhs
+FORD,ECOSPORT,PETROL,Grey,48143,SUV,Manual,1,1st Owner,Delhi,Delhi,1,9,7.8,6.75 Lakhs
+MG,HECTOR(2021-2023),DIESEL,White,11066,SUV,null,1,1st Owner,Delhi,Delhi,1,3,8.9,20.5 Lakhs
+MERCEDES BENZ,C CLASS,PETROL,Beige,64000,SEDAN,Manual,1,1st Owner,Delhi,Delhi,0,14,6.2,8.75 Lakhs
+HYUNDAI,ELITE I20,PETROL,White,28215,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,7,8.1,7.5 Lakhs
+HYUNDAI,ELITE I20,PETROL,Silver,39000,HATCHBACK,Automatic,1,1st Owner,Delhi,Delhi,0,10,7.7,5.25 Lakhs
+RENAULT,KWID,PETROL,Red,21534,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,6,8.6,3.95 Lakhs
+JEEP,COMPASS,PETROL,Black,54871,SUV,null,1,1st Owner,Delhi,Delhi,1,7,7.9,14.75 Lakhs
+SKODA,RAPID(2011-2014),PETROL,White,45028,SEDAN,null,1,1st Owner,Delhi,Delhi,0,13,7.1,3.5 Lakhs
+HONDA,AMAZE,PETROL,Silver,47176,SEDAN,Manual,1,1st Owner,Delhi,Delhi,1,12,7.3,3.6 Lakhs
+HYUNDAI,VENUE,PETROL,Silver,49384,SUV,null,1,1st Owner,Delhi,Delhi,1,5,8.3,9.5 Lakhs
+HONDA,CITY,PETROL,Red,19775,SEDAN,Manual,1,1st Owner,Delhi,Delhi,1,11,7.2,6.25 Lakhs
+HYUNDAI,CRETA,PETROL,White,67703,COMPACTSUV,null,1,1st Owner,Delhi,Delhi,1,9,7.4,8.5 Lakhs
+HYUNDAI,GRAND I10,PETROL,Red,32410,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,6,8.3,5.4 Lakhs
+HONDA,CITY,PETROL,A Silver,84840,SEDAN,Manual,1,1st Owner,Delhi,Delhi,0,12,6.8,4.25 Lakhs
+HYUNDAI,VERNA,PETROL,White,41845,SEDAN,null,0,1st Owner,Delhi,Delhi,1,7,8,9.75 Lakhs
+HONDA,CITY(2017-2020),PETROL,Grey,36218,SEDAN,null,0,1st Owner,Delhi,Delhi,1,6,8.1,10.75 Lakhs
+MARUTI SUZUKI,CIAZ,PETROL,Brown,57305,SEDAN,null,1,1st Owner,Delhi,Delhi,1,10,7.3,5.9 Lakhs
+HYUNDAI,VERNA,PETROL,Black,16669,SEDAN,null,1,1st Owner,Delhi,Delhi,1,2,9.1,13.95 Lakhs
+MAHINDRA,KUV100,PETROL,A Blue,32576,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,9,8,3.9 Lakhs
+KIA,SELTOS,PETROL,White,60937,SUV,null,1,1st Owner,Delhi,Delhi,1,6,7.9,12.25 Lakhs
+HYUNDAI,GRAND I10,PETROL,White,38520,HATCHBACK,Manual,1,1st Owner,Delhi,Delhi,1,7,8.4,5 Lakhs
+FORD,ECOSPORT,PETROL,White,40714,SUV,Automatic,1,1st Owner,Delhi,Delhi,1,10,7.3,5.25 Lakhs
+RENAULT,KWID(2020-2021),PETROL,Blue,34168,HATCHBACK,null,1,1st Owner,Delhi,Delhi,1,5,8.6,5 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Silky Silver,25711,HATCHBACK,Manual,1,1st Owner,Delhi,Delhi,1,7,8.4,5.85 Lakhs
+HONDA,CITY,PETROL,White,38962,SEDAN,Manual,1,1st Owner,Delhi,Delhi,0,10,7.5,6.25 Lakhs
+CHEVROLET,SPARK,PETROL,Red,43800,HATCHBACK,Manual,0,1st Owner,Haryana,Gurgaon,0,14,7.6,1.45 Lakhs
+HYUNDAI,I10,PETROL,Golden,55300,HATCHBACK,Manual,0,2nd Owner,Haryana,Gurgaon,0,15,6.7,1.7 Lakhs
+HONDA,CITY,DIESEL,Black,47080,SEDAN,Manual,0,1st Owner,Haryana,Gurgaon,1,8,7.8,7.95 Lakhs
+TATA,HEXA,DIESEL,Grey,53614,SUV,null,0,1st Owner,Haryana,Gurgaon,1,8,7.9,10.45 Lakhs
+JEEP,COMPASS,PETROL,Red,44588,SUV,null,0,1st Owner,Haryana,Gurgaon,1,7,8.1,14.75 Lakhs
+HYUNDAI,I20,PETROL,Silver,54716,HATCHBACK,Manual,1,1st Owner,Haryana,Gurgaon,1,7,7.9,5.95 Lakhs
+KIA,SELTOS,PETROL,Red,27487,SUV,null,1,1st Owner,Haryana,Gurgaon,1,5,8.1,12.9 Lakhs
+MARUTI SUZUKI,IGNIS,PETROL,White,21442,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,7,7.6,5.95 Lakhs
+MARUTI SUZUKI,SWIFT,DIESEL,Grey,86127,HATCHBACK,Manual,0,2nd Owner,Haryana,Gurgaon,0,9,7.8,4.5 Lakhs
+BMW,X1,DIESEL,Blue,29778,SUV,Automatic,1,1st Owner,Haryana,Gurgaon,1,7,7.9,25.95 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,48520,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,8,7.7,6.25 Lakhs
+RENAULT,KWID,PETROL,Silver,35231,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,7,8.1,3.65 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Metallic Silver,8859,HATCHBACK,null,0,1st Owner,Haryana,Gurgaon,1,4,7.8,7.2 Lakhs
+MARUTI SUZUKI,CIAZ,PETROL,Silver,80234,SEDAN,null,0,1st Owner,Haryana,Gurgaon,0,8,7.9,6.95 Lakhs
+HONDA,AMAZE,PETROL,White,53615,SEDAN,Manual,0,2nd Owner,Haryana,Gurgaon,1,11,7.2,4.25 Lakhs
+TOYOTA,INNOVA,DIESEL,Grey,22360,SUV,Manual,0,2nd Owner,Haryana,Gurgaon,1,10,7.6,12.15 Lakhs
+HYUNDAI,SANTRO,PETROL,White,18972,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,6,7.7,5.49 Lakhs
+MARUTI SUZUKI,WAGON R,PETROL,Silver,29630,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,4,7.8,5.5 Lakhs
+HONDA,AMAZE,PETROL,Brown,35371,SEDAN,null,1,1st Owner,Haryana,Gurgaon,1,6,8,7.58 Lakhs
+HONDA,CITY(2017-2020),PETROL,Red,29667,SEDAN,null,1,2nd Owner,Haryana,Gurgaon,1,7,7.8,7.99 Lakhs
+MG,HECTOR,PETROL,White,47485,SUV,null,1,1st Owner,Haryana,Gurgaon,1,5,8,15.99 Lakhs
+MARUTI SUZUKI,CIAZ,DIESEL,Brown,82294,SEDAN,null,1,2nd Owner,Haryana,Gurgaon,1,10,8.2,4.95 Lakhs
+HONDA,JAZZ,PETROL,White,52508,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,10,7.7,4.5 Lakhs
+HONDA,CITY,DIESEL,Brown,73080,SEDAN,Manual,0,1st Owner,Haryana,Gurgaon,1,10,7.6,5.25 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,White,74293,HATCHBACK,null,1,2nd Owner,Haryana,Gurgaon,1,7,8,7.5 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Grey,45682,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,6,8.1,6.58 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,PETROL,Silver,24685,SEDAN,Manual,1,1st Owner,Haryana,Gurgaon,1,11,7.8,4.29 Lakhs
+MARUTI SUZUKI,WAGON R 1.0,PETROL,Grey,23514,HATCHBACK,Manual,1,1st Owner,Haryana,Gurgaon,1,8,7.8,4.11 Lakhs
+HONDA,AMAZE,PETROL,White,65031,SEDAN,Manual,1,2nd Owner,Haryana,Gurgaon,1,8,7.9,4.95 Lakhs
+MARUTI SUZUKI,DZIRE,PETROL,Grey,30999,SEDAN,null,1,1st Owner,Haryana,Gurgaon,1,4,8.3,7.27 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,PETROL,Silver,12505,SUV,null,1,1st Owner,Haryana,Gurgaon,1,3,8.2,8.99 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Red,34498,HATCHBACK,Manual,1,1st Owner,Haryana,Gurgaon,1,9,8.1,3.99 Lakhs
+MARUTI SUZUKI,WAGON R,PETROL,Grey,58690,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,5,8.2,5.33 Lakhs
+HYUNDAI,GRAND I10,PETROL,Red,36373,HATCHBACK,Manual,1,1st Owner,Haryana,Gurgaon,1,8,7.7,4.71 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,32333,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,4,8.2,5.87 Lakhs
+TATA,TIGOR(2018-2020),PETROL,Grey,53115,SEDAN,null,1,1st Owner,Haryana,Gurgaon,1,5,8.1,5.29 Lakhs
+HONDA,WR V,PETROL,Red,18121,SUV,null,1,1st Owner,Haryana,Gurgaon,1,7,7.9,7.99 Lakhs
+HONDA,AMAZE,PETROL,Red,32528,SEDAN,Manual,1,1st Owner,Haryana,Gurgaon,1,10,7.6,4.17 Lakhs
+MAHINDRA,SCORPIO(2014-2017),DIESEL,Silver,44297,SUV,null,1,1st Owner,Haryana,Gurgaon,1,8,8,7.91 Lakhs
+TATA,HARRIER,DIESEL,Black,33163,SUV,null,0,1st Owner,Haryana,Gurgaon,1,4,8.1,19.4 Lakhs
+HYUNDAI,CRETA,DIESEL,White,89000,COMPACTSUV,null,0,2nd Owner,Haryana,Gurgaon,0,9,7.8,7.5 Lakhs
+HONDA,AMAZE,PETROL,White,30174,SEDAN,Manual,1,2nd Owner,Haryana,Gurgaon,1,7,7.9,5.75 Lakhs
+HYUNDAI,TUCSON,DIESEL,Cherry Red,125901,SUV,null,0,1st Owner,Haryana,Gurgaon,0,8,7.6,14 Lakhs
+RENAULT,DUSTER(2016-2019),DIESEL,Silver,71692,SUV,null,1,1st Owner,Haryana,Gurgaon,1,8,7.8,5.49 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,57661,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,6,7.9,6.16 Lakhs
+MARUTI SUZUKI,CELERIO(2017-2019),CNG,Grey,35636,HATCHBACK,null,Company1Fitted,1st Owner,Haryana,Gurgaon,1,7,8.1,4.81 Lakhs
+MARUTI SUZUKI,DZIRE,DIESEL,Brown,33914,SEDAN,null,1,1st Owner,Haryana,Gurgaon,1,8,8.1,5.68 Lakhs
+FORD,ECOSPORT,DIESEL,Smoke Grey,80199,SUV,Manual,0,1st Owner,Haryana,Gurgaon,1,9,7.7,5.7 Lakhs
+HONDA,CITY,DIESEL,Brown,41507,SEDAN,null,0,1st Owner,Haryana,Gurgaon,0,7,8,10.7 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,71304,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,10,7.6,5.11 Lakhs
+HONDA,AMAZE,PETROL,Silver,16708,SEDAN,null,1,1st Owner,Haryana,Gurgaon,1,4,8.3,8.15 Lakhs
+HYUNDAI,CRETA(2020-2023),DIESEL,White,27821,SUV,null,1,1st Owner,Haryana,Gurgaon,1,3,8.4,16.25 Lakhs
+HYUNDAI,CRETA,PETROL,White,71041,COMPACTSUV,null,0,1st Owner,Haryana,Gurgaon,1,9,7.8,10.75 Lakhs
+MARUTI SUZUKI,WAGON R,CNG,Silky Silver,53105,HATCHBACK,null,Company1Fitted,1st Owner,Haryana,Gurgaon,0,4,8,5.65 Lakhs
+AUDI,Q3 2.0,DIESEL,Black,68583,SUV,Automatic,0,2nd Owner,Haryana,Gurgaon,0,11,7.7,10.9 Lakhs
+HYUNDAI,GRAND I10,PETROL,Grey,34617,HATCHBACK,Manual,1,1st Owner,Haryana,Gurgaon,1,7,7.9,4.99 Lakhs
+HONDA,WR-V,PETROL,Silver,5759,SUV,null,1,1st Owner,Haryana,Gurgaon,1,3,8.1,9.8 Lakhs
+HYUNDAI,I10,PETROL,Dust,67484,HATCHBACK,Manual,1,1st Owner,Haryana,Gurgaon,0,11,7.5,2.95 Lakhs
+MARUTI SUZUKI,WAGON R(2019-2022),CNG,White,37396,HATCHBACK,null,Company1Fitted,1st Owner,Haryana,Gurgaon,1,6,7.7,5.49 Lakhs
+HONDA,BRIO,PETROL,Urban Titanium,40293,HATCHBACK,Manual,1,1st Owner,Haryana,Gurgaon,1,9,7.7,4.11 Lakhs
+HONDA,CITY(2017-2020),PETROL,Silver,52898,SEDAN,null,0,1st Owner,Haryana,Gurgaon,0,7,8,85 Lakhs
+HONDA,CITY,PETROL,White,68290,SEDAN,Automatic,0,1st Owner,Haryana,Gurgaon,0,9,8,7.25 Lakhs
+BMW,3 SERIES,DIESEL,Blue,45611,SEDAN,Automatic,0,2nd Owner,Haryana,Gurgaon,1,9,7.4,16.8 Lakhs
+KIA,SELTOS,PETROL,White,35321,SUV,null,0,1st Owner,Haryana,Gurgaon,1,5,7.9,14 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,27867,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,5,8,6.49 Lakhs
+MARUTI SUZUKI,ALTO K10,CNG,Grey,37489,HATCHBACK,null,Company1Fitted,1st Owner,Haryana,Gurgaon,1,10,7.6,3.18 Lakhs
+HYUNDAI,VERNA,DIESEL,White,70699,SEDAN,null,1,1st Owner,Haryana,Gurgaon,1,7,7.7,9.25 Lakhs
+MARUTI SUZUKI,WAGON R,PETROL,White,22794,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,7,8.1,4.35 Lakhs
+TATA,TIAGO,PETROL,Grey,27654,HATCHBACK,null,0,1st Owner,Haryana,Gurgaon,1,7,7.8,4.85 Lakhs
+TATA,TIAGO,PETROL,White,42761,HATCHBACK,null,0,1st Owner,Haryana,Gurgaon,1,7,8.1,5.25 Lakhs
+TATA,ALTROZ,PETROL,Grey,21091,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,5,8.1,6.59 Lakhs
+MARUTI SUZUKI,CIAZ,PETROL,Grey,48856,SEDAN,null,0,1st Owner,Haryana,Gurgaon,1,9,8,6.35 Lakhs
+MARUTI SUZUKI,WAGON R 1.0,CNG,Silver,59676,HATCHBACK,Manual,Company1Fitted,1st Owner,Haryana,Gurgaon,1,9,7.7,3.64 Lakhs
+TATA,NEXON,PETROL,Grey,48920,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,7,7.8,7.49 Lakhs
+KIA,SELTOS,PETROL,White,9783,SUV,null,1,1st Owner,Haryana,Gurgaon,1,6,7.8,11.5 Lakhs
+HYUNDAI,I20,PETROL,Grey,60000,HATCHBACK,Manual,0,1st Owner,Haryana,Gurgaon,0,9,7.9,5.5 Lakhs
+MARUTI SUZUKI,S CROSS,DIESEL,Grey,67736,SUV,null,0,1st Owner,Haryana,Gurgaon,1,8,7.5,6.65 Lakhs
+HONDA,JAZZ,CNG,A Silver,36719,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,8,8.1,6.65 Lakhs
+HONDA,AMAZE,PETROL,White,51202,SEDAN,Manual,1,1st Owner,Haryana,Gurgaon,1,6,8.1,6.23 Lakhs
+HYUNDAI,I10,PETROL,Red,32637,HATCHBACK,Manual,1,1st Owner,Haryana,Gurgaon,1,9,7.6,4.05 Lakhs
+MARUTI SUZUKI,DZIRE,PETROL,Silky Silver,32109,SEDAN,null,1,2nd Owner,Haryana,Gurgaon,1,8,7.5,6.35 Lakhs
+HYUNDAI,I20,PETROL,White,18936,HATCHBACK,null,0,1st Owner,Haryana,Gurgaon,1,6,7.9,7.85 Lakhs
+MARUTI SUZUKI,BALENO(2020-2022),PETROL,Metalic Grey,7821,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,4,8.1,7.45 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Prime Beige,33749,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,6,7.8,9.2 Lakhs
+JEEP,COMPASS,DIESEL,White,51274,SUV,null,1,1st Owner,Haryana,Gurgaon,1,8,7.6,13 Lakhs
+TATA,SAFARI,DIESEL,White,17225,SUV,null,1,1st Owner,Haryana,Gurgaon,1,4,8,18.00 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Silky Silver,76803,MPV,null,1,2nd Owner,Haryana,Gurgaon,1,7,7.6,16.2 Lakhs
+HYUNDAI,CRETA,PETROL,Silver,77939,SUV,null,1,1st Owner,Haryana,Gurgaon,1,9,7.5,9.16 Lakhs
+MAHINDRA,XUV700,DIESEL,White,7738,SUV,null,0,1st Owner,Haryana,Gurgaon,1,3,8.2,21.49 Lakhs
+HONDA,CITY(2014-2017),PETROL,A Silver,50839,SEDAN,null,1,1st Owner,Haryana,Gurgaon,1,9,8,5.81 Lakhs
+MARUTI SUZUKI,CIAZ,PETROL,White,7000,SEDAN,null,1,1st Owner,Haryana,Gurgaon,1,3,8.2,11.81 Lakhs
+MAHINDRA,THAR,DIESEL,Grey,53737,SUV,null,1,1st Owner,Haryana,Gurgaon,1,5,7.9,15 Lakhs
+MG,HECTOR(2020-2021),PETROL,Black,23535,SUV,null,1,1st Owner,Haryana,Gurgaon,1,5,7.9,16.45 Lakhs
+HONDA,CITY(2017-2020),DIESEL,White,83571,SEDAN,null,0,1st Owner,Haryana,Gurgaon,0,7,7.6,7.5 Lakhs
+MAHINDRA,XUV500,DIESEL,White,27524,SUV,null,1,1st Owner,Haryana,Gurgaon,1,7,7.7,12.5 Lakhs
+MAHINDRA,XUV700,PETROL,White,11366,SUV,null,1,1st Owner,Haryana,Gurgaon,1,4,8.2,25.5 Lakhs
+SKODA,KUSHAQ,PETROL,White,19815,SUV,null,1,1st Owner,Haryana,Gurgaon,1,4,8,15.95 Lakhs
+HYUNDAI,CRETA,DIESEL,White,83000,COMPACTSUV,null,1,1st Owner,Haryana,Gurgaon,0,8,7.9,9.45 Lakhs
+KIA,SELTOS,DIESEL,A Blue,25000,SUV,null,1,1st Owner,Haryana,Gurgaon,0,6,7.8,13.75 Lakhs
+HONDA,AMAZE,PETROL,Brown,27000,SEDAN,null,1,1st Owner,Haryana,Gurgaon,0,7,7.9,5.75 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Deep Red,21601,MPV,null,0,1st Owner,Haryana,Gurgaon,1,8,7.5,17.5 Lakhs
+CHEVROLET,SAIL UVA,PETROL,Grey,5859,HATCHBACK,Manual,0,1st Owner,Haryana,Gurgaon,1,11,7.7,3.25 Lakhs
+TATA,NEXON,DIESEL,Grey,83121,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,8,7.6,7.85 Lakhs
+FORD,ECOSPORT,PETROL,White,50000,SUV,Automatic,1,1st Owner,Haryana,Gurgaon,0,9,7.6,6.7 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Grey,39809,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,8,7.9,4.68 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,PETROL,White,11810,SEDAN,Manual,0,1st Owner,Haryana,Gurgaon,1,10,7.5,5.35 Lakhs
+MARUTI SUZUKI,ERTIGA,PETROL,White,33021,MPV,null,0,1st Owner,Haryana,Gurgaon,1,5,8,9.35 Lakhs
+NISSAN,SUNNY,PETROL,Grey,57300,SEDAN,Manual,0,2nd Owner,Haryana,Gurgaon,0,13,7.6,3.25 Lakhs
+TATA,SAFARI,DIESEL,White,21584,SUV,null,0,1st Owner,Haryana,Gurgaon,1,4,8.1,18.9 Lakhs
+ISUZU,V CROSS,DIESEL,Black,22000,SUV,null,0,1st Owner,Haryana,Gurgaon,0,8,7.8,14.5 Lakhs
+MERCEDES BENZ,C CLASS,PETROL,Arizona Grey,260000,SEDAN,Automatic,0,1st Owner,Haryana,Gurgaon,0,15,7.4,6.9 Lakhs
+FORD,ECOSPORT,PETROL,Diamond White,16778,SUV,Manual,1,1st Owner,Haryana,Gurgaon,1,4,8,9.59 Lakhs
+FORD,FIGO,PETROL,Cherry Red,30464,HATCHBACK,null,0,2nd Owner,Haryana,Gurgaon,1,10,7.5,4.75 Lakhs
+FORD,ECOSPORT,DIESEL,Metallic Silver,20350,SUV,Manual,0,1st Owner,Haryana,Gurgaon,1,12,7.5,4.95 Lakhs
+HONDA,JAZZ,PETROL,Silver,32982,HATCHBACK,null,0,2nd Owner,Haryana,Gurgaon,1,8,7.8,6.45 Lakhs
+MAHINDRA,XUV500(2017_2018),DIESEL,Orange,60039,SUV,null,0,1st Owner,Haryana,Gurgaon,1,10,7.9,8.8 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Grey,76725,MPV,null,0,1st Owner,Haryana,Gurgaon,1,8,7.8,15.95 Lakhs
+HONDA,CITY,PETROL,Dark Grey,14241,SEDAN,null,0,1st Owner,Haryana,Gurgaon,1,7,7.9,10.75 Lakhs
+FORD,ASPIRE,PETROL,Arizona Grey,25746,SEDAN,null,1,1st Owner,Haryana,Gurgaon,1,7,8.2,5.5 Lakhs
+HYUNDAI,I10,PETROL,Silver,62504,HATCHBACK,Manual,1,1st Owner,Haryana,Gurgaon,1,10,7.9,3.45 Lakhs
+MARUTI SUZUKI,IGNIS,PETROL,Pearl White,41439,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,7,8.1,5.05 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,PETROL,White,21816,SUV,null,1,1st Owner,Haryana,Gurgaon,1,3,8.3,11 Lakhs
+NISSAN,MAGNITE,PETROL,Brown,6062,SUV,null,1,1st Owner,Haryana,Gurgaon,1,3,8.4,7.19 Lakhs
+HYUNDAI,VENUE,PETROL,White,36414,SUV,null,0,1st Owner,Haryana,Gurgaon,1,6,7.6,10.75 Lakhs
+MITSUBISHI,PAJERO SPORT,DIESEL,Black,91480,SUV,null,1,1st Owner,Haryana,Gurgaon,1,11,7.3,9.45 Lakhs
+JEEP,COMPASS,PETROL,Red,57156,SUV,null,Company1Fitted,1st Owner,Haryana,Gurgaon,1,7,7.5,15.45 Lakhs
+MG,HECTOR,PETROL,Red,14278,SUV,null,1,1st Owner,Haryana,Gurgaon,1,6,7.7,15.75 Lakhs
+KIA,SELTOS(2020-2022),DIESEL,Black Magic,29000,SUV,null,1,2nd Owner,Haryana,Gurgaon,0,4,8,17.75 Lakhs
+KIA,CARENS,PETROL,White,17209,MPV,null,1,2nd Owner,Haryana,Gurgaon,1,3,8,18 Lakhs
+RENAULT,KWID,PETROL,Brown,7410,HATCHBACK,null,0,2nd Owner,Haryana,Gurgaon,1,5,7.8,4.25 Lakhs
+MARUTI SUZUKI,SWIFT(2018_2019),DIESEL,A Blue,53540,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,7,7.9,6.4 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,A Blue,39654,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,8,7.9,5.75 Lakhs
+FORD,ECOSPORT,PETROL,Brown,63738,SUV,Automatic,0,2nd Owner,Haryana,Gurgaon,1,9,7.5,6.45 Lakhs
+MAHINDRA,THAR,PETROL,Green,11485,SUV,null,1,1st Owner,Haryana,Gurgaon,1,3,7.9,14.75 Lakhs
+TATA,HARRIER,DIESEL,G. Red,15550,SUV,null,1,1st Owner,Haryana,Gurgaon,1,5,7.9,20.75 Lakhs
+MARUTI SUZUKI,WAGON R,PETROL,W B Mist,15245,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,0,4,8.1,5.75 Lakhs
+SKODA,KODIAQ,DIESEL,Black,85350,SUV,null,1,2nd Owner,Haryana,Gurgaon,0,8,7.7,21 Lakhs
+HONDA,AMAZE,PETROL,Silver,13614,SEDAN,Manual,1,1st Owner,Haryana,Gurgaon,1,4,8.3,7.19 Lakhs
+MARUTI SUZUKI,ALTO K10,PETROL,Silver,17546,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,7,8,3.99 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,White,73160,HATCHBACK,null,0,2nd Owner,Haryana,Gurgaon,1,7,7.9,7.75 Lakhs
+MARUTI SUZUKI,WAGON R 1.0,CNG,White,44684,HATCHBACK,null,0,1st Owner,Haryana,Gurgaon,1,7,8,4.95 Lakhs
+TOYOTA,PLATINUM ETIOS,PETROL,White,37022,SEDAN,null,0,1st Owner,Haryana,Gurgaon,1,8,7.7,5.95 Lakhs
+VOLKSWAGEN,POLO,PETROL,Silver,67469,HATCHBACK,Manual,0,2nd Owner,Haryana,Gurgaon,1,12,7.6,3.45 Lakhs
+HYUNDAI,XCENT,PETROL,Silver,63982,SEDAN,Manual,1,1st Owner,Haryana,Gurgaon,1,9,7.8,4.37 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Pearl Silver,49230,HATCHBACK,null,0,1st Owner,Haryana,Gurgaon,1,8,7.9,6.25 Lakhs
+MAHINDRA,XUV500,DIESEL,Black,36744,SUV,Manual,0,1st Owner,Haryana,Gurgaon,1,10,7.6,7.25 Lakhs
+NISSAN,MICRA,PETROL,White,33028,HATCHBACK,Manual,0,1st Owner,Haryana,Gurgaon,1,12,7.5,3.25 Lakhs
+SKODA,KUSHAQ,PETROL,White,7204,SUV,null,1,1st Owner,Haryana,Gurgaon,1,3,8.1,12.77 Lakhs
+TATA,TIAGO,PETROL,Grey,12481,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,5,8.1,6.57 Lakhs
+RENAULT,KIGER,PETROL,C.Blue,18932,SUV,null,1,1st Owner,Haryana,Gurgaon,1,4,8.3,7.64 Lakhs
+HYUNDAI,ELITE I20,PETROL,White,55926,HATCHBACK,Manual,1,1st Owner,Haryana,Gurgaon,1,8,7.8,5.75 Lakhs
+HYUNDAI,GRAND I10,PETROL,Grey,50126,HATCHBACK,Automatic,0,1st Owner,Haryana,Gurgaon,1,11,7.7,4.25 Lakhs
+TATA,TIAGO,PETROL,Silver,38231,HATCHBACK,null,1,1st Owner,Haryana,Gurgaon,1,8,7.9,5.15 Lakhs
+HONDA,BRIO,PETROL,Silver,66340,HATCHBACK,Automatic,0,1st Owner,Haryana,Gurgaon,1,10,7.8,4.8 Lakhs
+HONDA,CITY 5TH GEN,,Brown,22974,SEDAN,null,1,1st Owner,Uttar Pradesh,Noida,1,5,7.9,10.47 Lakhs
+HONDA,CITY,PETROL,White,50000,SEDAN,Manual,1,1st Owner,Uttar Pradesh,Noida,0,15,7,3.25 Lakhs
+HYUNDAI,GRAND I10,PETROL,White,49154,HATCHBACK,Manual,Company1Fitted,1st Owner,Uttar Pradesh,Noida,1,7,7.8,5.8 Lakhs
+HYUNDAI,ACCENT,CNG,Red,55000,SEDAN,Manual,After1Market,2nd Owner,Uttar Pradesh,Noida,0,14,7,2.75 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,84102,HATCHBACK,null,1,1st Owner,Uttar Pradesh,Noida,1,7,7.9,5.75 Lakhs
+MARUTI SUZUKI,ALTO K10,PETROL,Red,48327,HATCHBACK,null,1,1st Owner,Uttar Pradesh,Noida,1,10,7.4,3.5 Lakhs
+MARUTI SUZUKI,ALTO K10,PETROL,White,24931,HATCHBACK,null,1,1st Owner,Uttar Pradesh,Noida,1,8,7.7,4 Lakhs
+FORD,ASPIRE,PETROL,White,29060,SEDAN,null,1,2nd Owner,Uttar Pradesh,Noida,1,9,7.6,4.75 Lakhs
+HONDA,CITY(2008-2011),PETROL,Beige,78000,SEDAN,null,1,2nd Owner,Uttar Pradesh,Noida,0,14,6.9,3.75 Lakhs
+MAHINDRA,THAR,DIESEL,B.Green,31745,SUV,null,1,1st Owner,Uttar Pradesh,Noida,1,4,8,15.91 Lakhs
+FORD,ECOSPORT,PETROL,White,60208,SUV,Manual,1,1st Owner,Uttar Pradesh,Noida,1,8,8.1,6.87 Lakhs
+MARUTI SUZUKI,WAGON R 1.0,PETROL,A Blue,22000,HATCHBACK,Manual,1,1st Owner,Uttar Pradesh,Noida,0,15,7.7,1.95 Lakhs
+HYUNDAI,VERNA,DIESEL,A Blue,82788,SEDAN,Automatic,1,2nd Owner,Uttar Pradesh,Noida,1,11,7.7,4.95 Lakhs
+TATA,HARRIER,DIESEL,White,16316,SUV,null,1,1st Owner,Uttar Pradesh,Noida,1,6,8,14.91 Lakhs
+TOYOTA,INNOVA CRYSTA,PETROL,Red,43785,MPV,null,1,1st Owner,Uttar Pradesh,Noida,1,8,7.6,18.75 Lakhs
+TOYOTA,COROLLA ALTIS,PETROL,Grey,65242,SEDAN,Manual,1,2nd Owner,Uttar Pradesh,Noida,1,9,7.8,10.75 Lakhs
+SKODA,RAPID,DIESEL,Brown,72287,SEDAN,null,1,1st Owner,Uttar Pradesh,Noida,1,8,8,7.29 Lakhs
+FORD,ASPIRE(2015_2018),PETROL,Smoke Grey,62659,SEDAN,null,1,1st Owner,Uttar Pradesh,Noida,1,8,7.9,4.87 Lakhs
+MARUTI SUZUKI,CIAZ(2018-2020),PETROL,Silky Silver,52058,SEDAN,null,1,1st Owner,Uttar Pradesh,Noida,1,7,8,7.75 Lakhs
+HONDA,AMAZE,PETROL,White,19358,SEDAN,null,1,1st Owner,Uttar Pradesh,Noida,1,5,8.1,6.87 Lakhs
+HONDA,CITY,PETROL,White,65000,SEDAN,Manual,0,1st Owner,Uttar Pradesh,Noida,0,11,7.5,5.45 Lakhs
+HYUNDAI,GRAND I10,PETROL,Red,62059,HATCHBACK,Manual,1,1st Owner,Uttar Pradesh,Noida,1,9,8,4.67 Lakhs
+TATA,NEXON,PETROL,Orange,52613,HATCHBACK,null,1,1st Owner,Uttar Pradesh,Noida,1,7,7.8,8.47 Lakhs
+HONDA,AMAZE,DIESEL,Silver,127000,SEDAN,Manual,0,2nd Owner,Uttar Pradesh,Noida,0,11,7.6,3.5 Lakhs
+VOLKSWAGEN,VENTO,PETROL,Silver,70000,SEDAN,Manual,1,1st Owner,Uttar Pradesh,Noida,0,14,7.6,2.75 Lakhs
+HYUNDAI,VERNA,PETROL,Silver,78000,SEDAN,null,1,2nd Owner,Uttar Pradesh,Noida,0,14,7.4,3.55 Lakhs
+HONDA,AMAZE,PETROL,Silver,2015,SEDAN,Manual,1,1st Owner,Uttar Pradesh,Noida,1,4,8.3,7.25 Lakhs
+HYUNDAI,I10,CNG,White,63000,HATCHBACK,Manual,1,1st Owner,Uttar Pradesh,Noida,0,13,7.2,2.55 Lakhs
+MARUTI SUZUKI,ALTO K10,PETROL,Silver,60577,HATCHBACK,null,1,1st Owner,Uttar Pradesh,Noida,1,10,7.4,3.73 Lakhs
+JEEP,COMPASS,DIESEL,White,68635,SUV,null,1,1st Owner,Uttar Pradesh,Noida,1,7,7.7,11.45 Lakhs
+HONDA,CITY,PETROL,White,67650,SEDAN,Manual,1,1st Owner,Uttar Pradesh,Noida,1,8,7.8,7.95 Lakhs
+HONDA,JAZZ,PETROL,Brown,85000,HATCHBACK,Manual,0,1st Owner,Uttar Pradesh,Noida,0,13,7.3,3.5 Lakhs
+TATA,TIAGO,PETROL,Red,70000,HATCHBACK,null,1,1st Owner,Uttar Pradesh,Noida,0,9,7.7,4.25 Lakhs
+JEEP,COMPASS,DIESEL,White,51654,SUV,null,1,1st Owner,Uttar Pradesh,Noida,1,7,7.9,12.77 Lakhs
+VOLKSWAGEN,POLO,PETROL,White,72000,HATCHBACK,Manual,0,2nd Owner,Uttar Pradesh,Noida,0,13,7.7,3.5 Lakhs
+MAHINDRA,SCORPIO,DIESEL,White,73429,SUV,Manual,1,1st Owner,Uttar Pradesh,Noida,1,11,7.5,5 Lakhs
+MAHINDRA,XUV500(2015_2017),DIESEL,Black,64629,SUV,null,1,1st Owner,Uttar Pradesh,Noida,1,8,7.9,8.37 Lakhs
+HONDA,WR V,PETROL,White,15468,SUV,null,1,1st Owner,Uttar Pradesh,Noida,1,7,7.7,8.37 Lakhs
+HYUNDAI,VENUE,PETROL,White,33598,SUV,null,1,1st Owner,Uttar Pradesh,Noida,1,6,7.6,10.47 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Silver,69100,HATCHBACK,null,1,1st Owner,Uttar Pradesh,Noida,1,8,7.9,6.75 Lakhs
+TATA,TIAGO,PETROL,Other,58887,HATCHBACK,null,1,1st Owner,Uttar Pradesh,Noida,0,9,7.8,3.8 Lakhs
+VOLKSWAGEN,VENTO,PETROL,Black,46897,SEDAN,null,1,1st Owner,Uttar Pradesh,Noida,0,14,7.2,3.5 Lakhs
+HONDA,CITY,PETROL,White,81617,SEDAN,Manual,1,1st Owner,Uttar Pradesh,Noida,1,11,7.4,5.55 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Silver,23389,HATCHBACK,Manual,1,2nd Owner,Uttar Pradesh,Noida,1,12,7.7,3.95 Lakhs
+HYUNDAI,CRETA,PETROL,White,6141,COMPACTSUV,null,1,1st Owner,Uttar Pradesh,Noida,1,9,7.4,8.95 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Red,84000,HATCHBACK,null,1,1st Owner,Uttar Pradesh,Noida,0,8,8,6.55 Lakhs
+MARUTI SUZUKI,WAGON R 1.0,PETROL,White,62862,HATCHBACK,null,0,1st Owner,Uttar Pradesh,Noida,1,7,8,4.65 Lakhs
+TATA,TIGOR,PETROL,Silver,53711,SEDAN,null,1,1st Owner,Uttar Pradesh,Noida,1,7,7.7,5.67 Lakhs
+HYUNDAI,I20,PETROL,White,52764,HATCHBACK,Manual,0,2nd Owner,Uttar Pradesh,Noida,1,12,7.5,3.65 Lakhs
+HYUNDAI,XCENT(2014-2017),PETROL,Silver,55951,SEDAN,null,1,1st Owner,Uttar Pradesh,Noida,1,10,7.7,4.49 Lakhs
+TATA,NEXON,PETROL,Grey,31661,HATCHBACK,null,1,1st Owner,Uttar Pradesh,Noida,1,6,8,7.43 Lakhs
+FORD,ECOSPORT,DIESEL,Silver,77953,SUV,Manual,1,1st Owner,Uttar Pradesh,Noida,1,10,7.7,4.45 Lakhs
+AUDI,A6,PETROL,Black,60000,SEDAN,Automatic,1,2nd Owner,Uttar Pradesh,Noida,0,15,6.5,6.75 Lakhs
+TOYOTA,ETIOS,DIESEL,Grey,55129,SEDAN,Manual,1,1st Owner,Uttar Pradesh,Noida,1,11,7.6,4.55 Lakhs
+VOLKSWAGEN,POLO,PETROL,White,60000,HATCHBACK,Manual,1,2nd Owner,Uttar Pradesh,Noida,0,14,7.3,2.55 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Grey,60000,HATCHBACK,Manual,1,1st Owner,Uttar Pradesh,Noida,0,12,7.8,3.55 Lakhs
+HYUNDAI,EON,PETROL,Silky Silver,40000,HATCHBACK,Manual,1,2nd Owner,Uttar Pradesh,Noida,0,12,7.2,2.25 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,74878,HATCHBACK,null,1,1st Owner,Uttar Pradesh,Noida,1,6,7.9,6.25 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Grey,37901,HATCHBACK,null,1,2nd Owner,Uttar Pradesh,Noida,1,10,7.4,5.75 Lakhs
+TATA,NEXON,PETROL,Cherry Red,10728,HATCHBACK,null,0,1st Owner,Uttar Pradesh,Noida,1,5,7.9,9.65 Lakhs
+VOLKSWAGEN,POLO,CNG,White,66000,HATCHBACK,Manual,After1Market,1st Owner,Uttar Pradesh,Noida,0,13,7.3,3.65 Lakhs
+TATA,TIAGO,PETROL,Ocean Blue,33468,HATCHBACK,null,1,1st Owner,Uttar Pradesh,Noida,1,6,7.7,5.37 Lakhs
+MAHINDRA,MARAZZO,DIESEL,Silver,40035,MPV,null,1,1st Owner,Uttar Pradesh,Noida,1,7,7.6,9.97 Lakhs
+MARUTI SUZUKI,DZIRE,PETROL,White,22652,SEDAN,null,1,1st Owner,Uttar Pradesh,Noida,1,7,7.8,7.73 Lakhs
+FORD,ECOSPORT,PETROL,Red,80752,SUV,Automatic,1,1st Owner,Uttar Pradesh,Noida,1,10,7.6,7.25 Lakhs
+VOLKSWAGEN,POLO,PETROL,White,72000,HATCHBACK,Manual,0,2nd Owner,Uttar Pradesh,Noida,0,14,7.6,2.99 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Silky Silver,67476,HATCHBACK,Manual,1,1st Owner,Uttar Pradesh,Noida,1,6,8,5.45 Lakhs
+HONDA,JAZZ,PETROL,Cherry Red,62000,HATCHBACK,null,0,1st Owner,Uttar Pradesh,Noida,0,8,8,5.4 Lakhs
+VOLKSWAGEN,VENTO,PETROL,Blue,60000,Sedan,null,0,1st Owner,Uttar Pradesh,Noida,0,12,7.8,3.95 Lakhs
+TATA,TIAGO,PETROL,Orange,74130,HATCHBACK,null,0,1st Owner,Uttar Pradesh,Noida,1,9,7.7,3.95 Lakhs
+RENAULT,KWID,PETROL,Dark Grey,18586,HATCHBACK,null,0,1st Owner,Uttar Pradesh,Noida,0,8,8,3.25 Lakhs
+MARUTI SUZUKI,WAGON R,CNG,White,40000,HATCHBACK,Manual,1,1st Owner,Uttar Pradesh,Noida,0,13,7.6,2.75 Lakhs
+TATA,SAFARI,DIESEL,Black,18426,SUV,null,1,1st Owner,Uttar Pradesh,Noida,1,3,8.1,24.95 Lakhs
+TOYOTA,ETIOS,DIESEL,Silver,48358,SEDAN,Manual,1,1st Owner,Uttar Pradesh,Noida,1,11,7.9,4.85 Lakhs
+HONDA,CITY,PETROL,Brown,47644,SEDAN,Manual,1,2nd Owner,Uttar Pradesh,Noida,1,12,7.6,3.95 Lakhs
+MAHINDRA,XUV500,DIESEL,White,33495,SUV,Manual,1,1st Owner,Uttar Pradesh,Noida,1,8,8.1,8.77 Lakhs
+HYUNDAI,ELANTRA,PETROL,Silky Silver,43000,SEDAN,null,1,1st Owner,Uttar Pradesh,Noida,0,8,7.5,11.87 Lakhs
+HONDA,CITY,PETROL,Dark Grey,72372,SEDAN,Manual,0,1st Owner,Uttar Pradesh,Noida,1,9,7.8,6.95 Lakhs
+JEEP,COMPASS,PETROL,White,70254,SUV,null,0,1st Owner,Uttar Pradesh,Noida,1,8,7.5,14.95 Lakhs
+HONDA,JAZZ,PETROL,White,66297,HATCHBACK,Manual,0,1st Owner,Uttar Pradesh,Noida,1,9,8,4.95 Lakhs
+TOYOTA,ETIOS CROSS,PETROL,Dark Grey,41500,SUV,null,0,1st Owner,Uttar Pradesh,Noida,0,10,7.4,4.85 Lakhs
+NISSAN,MICRA ACTIVE,PETROL,Silver,30000,HATCHBACK,Manual,0,1st Owner,Uttar Pradesh,Noida,0,8,8,4.5 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,66000,HATCHBACK,null,0,1st Owner,Uttar Pradesh,Noida,0,9,7.6,5.65 Lakhs
+HONDA,WR V,PETROL,White,66138,SUV,null,0,1st Owner,Uttar Pradesh,Noida,1,8,7.7,7.5 Lakhs
+TOYOTA,FORTUNER,DIESEL,Black,67863,SUV,null,1,1st Owner,Uttar Pradesh,Noida,1,7,7.7,31.75 Lakhs
+TOYOTA,COROLLA ALTIS,PETROL,Silver,70000,SEDAN,Manual,1,1st Owner,Uttar Pradesh,Noida,0,13,7.7,4.75 Lakhs
+HYUNDAI,VERNA,PETROL,Black,38634,SEDAN,null,0,2nd Owner,Uttar Pradesh,Noida,1,6,7.8,8.25 Lakhs
+SKODA,OCTAVIA,PETROL,Black,59257,SEDAN,null,1,1st Owner,Uttar Pradesh,Noida,1,9,7.6,9.92 Lakhs
+TATA,TIGOR,PETROL,Red,23609,SEDAN,null,1,1st Owner,Uttar Pradesh,Noida,1,7,7.8,5.92 Lakhs
+HYUNDAI,I10,CNG,Grey,38000,HATCHBACK,Manual,After1Market,2nd Owner,Uttar Pradesh,Noida,0,10,7.5,3.55 Lakhs
+TOYOTA,FORTUNER,DIESEL,Grey,17341,SUV,null,1,1st Owner,Uttar Pradesh,Noida,1,8,7.6,32.95 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Grey,19129,HATCHBACK,Manual,1,1st Owner,Uttar Pradesh,Noida,1,6,7.8,5.45 Lakhs
+HYUNDAI,VENUE,PETROL,White,32999,SUV,null,0,1st Owner,Uttar Pradesh,Noida,1,5,8,7.95 Lakhs
+JEEP,COMPASS,PETROL,Black,28528,SUV,null,0,1st Owner,Uttar Pradesh,Noida,1,5,7.9,14.95 Lakhs
+HYUNDAI,GRAND I10,PETROL,White,61999,HATCHBACK,Manual,0,1st Owner,Uttar Pradesh,Noida,1,8,7.7,4.85 Lakhs
+HONDA,CITY,PETROL,Chocolate Brown,80165,SEDAN,Manual,1,1st Owner,Telangana,Hyderabad,1,11,7.4,6 Lakhs
+FORD,ENDEAVOUR,DIESEL,A Blue,127241,SUV,null,0,1st Owner,Telangana,Hyderabad,0,7,8,25.9 Lakhs
+MAHINDRA,SCORPIO,DIESEL,Diamond White,92441,SUV,Manual,1,1st Owner,Telangana,Hyderabad,0,15,7.3,5.5 Lakhs
+MAHINDRA,BOLERO,DIESEL,White,70380,SUV,Manual,1,1st Owner,Telangana,Hyderabad,1,10,7.6,6.5 Lakhs
+FORD,FIGO,DIESEL,Seafoam Green,75155,HATCHBACK,Manual,1,1st Owner,Telangana,Hyderabad,0,14,7.4,1.9 Lakhs
+HYUNDAI,VERNA,DIESEL,Grey,84709,SEDAN,null,1,1st Owner,Telangana,Hyderabad,1,12,7.5,6 Lakhs
+HYUNDAI,VERNA,PETROL,Red,55691,SEDAN,null,1,1st Owner,Telangana,Hyderabad,1,9,7.8,6.2 Lakhs
+VOLVO,XC 60,DIESEL,Brown,127038,SUV,Automatic,1,1st Owner,Telangana,Hyderabad,0,10,7.7,18.2 Lakhs
+RENAULT,DUSTER,DIESEL,Brown,79151,SUV,Manual,1,1st Owner,Telangana,Hyderabad,1,10,7.7,6.5 Lakhs
+MARUTI SUZUKI,CELERIO X(2020-2021),PETROL,White,51433,HATCHBACK,null,1,1st Owner,Telangana,Hyderabad,1,5,7.8,5.99 Lakhs
+HYUNDAI,ELITE I20,PETROL,Red,69782,HATCHBACK,Manual,0,1st Owner,Telangana,Hyderabad,1,10,7.7,5.5 Lakhs
+SKODA,RAPID,DIESEL,White,46855,SEDAN,null,0,1st Owner,Telangana,Hyderabad,1,10,7.8,7 Lakhs
+HYUNDAI,ELITE I20,DIESEL,White,71928,HATCHBACK,null,0,1st Owner,Telangana,Hyderabad,1,7,8,8.5 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Red,41157,HATCHBACK,null,1,1st Owner,Telangana,Hyderabad,1,6,7.8,7.45 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Red,44865,HATCHBACK,null,1,1st Owner,Telangana,Hyderabad,1,6,7.8,10.25 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Grey,63003,HATCHBACK,Manual,0,1st Owner,Telangana,Hyderabad,1,8,7.8,6.2 Lakhs
+MARUTI SUZUKI,ALTO 800,PETROL,Blue,76777,HATCHBACK,Manual,0,1st Owner,Telangana,Hyderabad,1,8,7.9,3 Lakhs
+TATA,ZEST,DIESEL,Grey,30329,SEDAN,Manual,1,1st Owner,Telangana,Hyderabad,0,7,7.9,5.6 Lakhs
+HYUNDAI,CRETA,DIESEL,White,84718,COMPACTSUV,null,1,1st Owner,Telangana,Hyderabad,1,7,7.7,11.9 Lakhs
+HONDA,CITY,DIESEL,Grey,89500,SEDAN,Manual,0,1st Owner,Telangana,Hyderabad,0,11,7.3,6 Lakhs
+MARUTI SUZUKI,S CROSS,DIESEL,Sapphire Silver,131000,SUV,null,1,1st Owner,Telangana,Hyderabad,0,10,7.4,6.99 Lakhs
+MAHINDRA,THAR,DIESEL,Black,26399,SUV,null,1,1st Owner,Telangana,Hyderabad,1,4,7.9,18 Lakhs
+HYUNDAI,GRAND I10(2017-2020),PETROL,White,46441,HATCHBACK,null,1,1st Owner,Telangana,Hyderabad,1,7,8,5.6 Lakhs
+TATA,HARRIER,DIESEL,White,50939,SUV,null,0,1st Owner,Telangana,Hyderabad,1,6,7.8,16.5 Lakhs
+HONDA,CITY,DIESEL,Urban Titanium,85798,SEDAN,Manual,1,1st Owner,Telangana,Hyderabad,1,9,7.6,6.75 Lakhs
+FORD,ECOSPORT,DIESEL,Metallic Silver,88962,SUV,Manual,1,1st Owner,Telangana,Hyderabad,1,9,8.1,6.9 Lakhs
+HYUNDAI,EON,PETROL,Red,85610,HATCHBACK,Manual,0,1st Owner,Telangana,Hyderabad,1,11,7.3,3.3 Lakhs
+SKODA,OCTAVIA,PETROL,White,95870,SEDAN,null,1,1st Owner,Telangana,Hyderabad,0,8,7.7,16 Lakhs
+NISSAN,TERRANO,DIESEL,Silver,81000,SUV,Manual,0,1st Owner,Telangana,Hyderabad,0,10,7.8,6.5 Lakhs
+MARUTI SUZUKI,SWIFT(2014_2018),PETROL,Red,83766,HATCHBACK,null,1,2nd Owner,Telangana,Hyderabad,1,10,7.7,5.25 Lakhs
+MARUTI SUZUKI,CELERIO,DIESEL,White,53708,HATCHBACK,null,1,1st Owner,Telangana,Hyderabad,1,9,8.1,4.4 Lakhs
+MARUTI SUZUKI,S CROSS,DIESEL,Grey,61521,SUV,null,1,1st Owner,Telangana,Hyderabad,1,8,7.7,8.49 Lakhs
+HYUNDAI,ELITE I20(2018-2019),DIESEL,Red,74323,HATCHBACK,null,1,1st Owner,Telangana,Hyderabad,1,7,8.1,7.6 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Grey,89040,MPV,null,1,1st Owner,Telangana,Hyderabad,1,9,7.4,19.5 Lakhs
+SKODA,RAPID(2011-2014),DIESEL,Beige,90238,SEDAN,null,0,1st Owner,Telangana,Hyderabad,1,12,7.4,4.5 Lakhs
+HONDA,CITY,PETROL,White,76886,SEDAN,Automatic,0,1st Owner,Telangana,Hyderabad,0,16,6.9,4.5 Lakhs
+HYUNDAI,EON,LPG,Grey,60179,HATCHBACK,Manual,Company1Fitted,1st Owner,Telangana,Hyderabad,1,11,7.5,3.5 Lakhs
+MARUTI SUZUKI,CIAZ,DIESEL,Silver,61467,SEDAN,null,0,1st Owner,Telangana,Hyderabad,1,8,8.1,7.5 Lakhs
+MARUTI SUZUKI,ALTO 800,PETROL,Grey,9313,HATCHBACK,Manual,1,1st Owner,Telangana,Hyderabad,1,4,8.1,4 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Pearl White,59432,HATCHBACK,null,1,1st Owner,Telangana,Hyderabad,1,6,7.8,9.75 Lakhs
+HYUNDAI,GRAND I10(2013-2017),PETROL,Cherry Red,62499,HATCHBACK,null,0,1st Owner,Telangana,Hyderabad,1,9,7.8,5.5 Lakhs
+HYUNDAI,ELITE I20(2018-2019),PETROL,Silver,23429,HATCHBACK,null,0,1st Owner,Telangana,Hyderabad,1,7,7.8,7.2 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,DIESEL,White,91000,SEDAN,Manual,1,1st Owner,Telangana,Hyderabad,0,16,7.5,3.2 Lakhs
+RENAULT,KWID,PETROL,White,30985,HATCHBACK,null,0,1st Owner,Telangana,Hyderabad,1,7,7.7,4.3 Lakhs
+MARUTI SUZUKI,ALTO K10,PETROL,Grey,42396,HATCHBACK,null,0,1st Owner,Telangana,Hyderabad,1,9,7.5,3.7 Lakhs
+HYUNDAI,I10,PETROL,Grey,88324,HATCHBACK,Manual,0,1st Owner,Telangana,Hyderabad,1,10,7.6,5.4 Lakhs
+TATA,TIAGO,PETROL,Brown,54682,HATCHBACK ,null,0,1st Owner,Telangana,Hyderabad,1,7,7.8,6 Lakhs
+HONDA,CITY,PETROL,White,59524,SEDAN,null,0,1st Owner,Telangana,Hyderabad,1,6,7.9,10.5 Lakhs
+HYUNDAI,CRETA,PETROL,White,72000,COMPACTSUV,null,0,1st Owner,Telangana,Hyderabad,0,8,8.1,9.4 Lakhs
+MARUTI SUZUKI,SWIFT,DIESEL,Grey,116688,HATCHBACK,Manual,0,1st Owner,Telangana,Hyderabad,0,12,7.5,4.7 Lakhs
+FORD,ASPIRE,PETROL,White,80166,SEDAN,null,0,1st Owner,Telangana,Hyderabad,1,10,7.6,4.7 Lakhs
+HYUNDAI,ELITE I20,PETROL,Grey,44820,HATCHBACK,Manual,0,1st Owner,Telangana,Hyderabad,1,7,7.9,7.2 Lakhs
+HONDA,CITY,PETROL,White,96000,SEDAN,Automatic,0,1st Owner,Telangana,Hyderabad,0,14,7,4.5 Lakhs
+MARUTI SUZUKI,SWIFT,DIESEL,Silver,82000,HATCHBACK,Manual,0,1st Owner,Telangana,Hyderabad,0,7,7.9,6.5 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,DIESEL,Blue,81532,SEDAN,Manual,0,1st Owner,Telangana,Hyderabad,1,8,7.9,8.1 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Blue,28209,HATCHBACK,null,0,1st Owner,Telangana,Hyderabad,1,11,7.3,4.3 Lakhs
+VOLKSWAGEN,AMEO,PETROL,Grey,87515,SEDAN,null,0,1st Owner,Telangana,Hyderabad,0,9,7.7,5.5 Lakhs
+HONDA,CITY 5TH GEN,PETROL,White,31090,SEDAN,null,0,1st Owner,Telangana,Hyderabad,1,4,7.8,15.2 Lakhs
+HYUNDAI,EON,PETROL,Red,55118,HATCHBACK,null,0,1st Owner,Telangana,Hyderabad,1,9,7.6,3.2 Lakhs
+HYUNDAI,ELITE I20,PETROL,Red,80522,HATCHBACK,Automatic,0,1st Owner,Telangana,Hyderabad,0,10,7.4,6.7 Lakhs
+MAHINDRA,XUV500,DIESEL,Silver,144518,SUV,Manual,0,1st Owner,Telangana,Hyderabad,0,12,7.5,7.8 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Grey,46125,HATCHBACK,null,0,1st Owner,Telangana,Hyderabad,1,9,7.6,5.2 Lakhs
+HYUNDAI,GRAND I10 NIOS(2019-2023),PETROL,White,11535,HATCHBACK,null,1,1st Owner,Madhya Pradesh,Indore,1,6,7.8,6.65 Lakhs
+HYUNDAI,CRETA,DIESEL,White,72177,SUV,null,1,1st Owner,Madhya Pradesh,Indore,1,7,7.8,9.31 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Grey,66155,HATCHBACK,null,1,1st Owner,Madhya Pradesh,Indore,1,7,8.1,7.75 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,White,58727,HATCHBACK,null,1,1st Owner,Madhya Pradesh,Indore,1,9,7.7,4.55 Lakhs
+HYUNDAI,GRAND I10(2017-2020),PETROL,Dust,37804,HATCHBACK,null,1,1st Owner,Madhya Pradesh,Indore,1,8,7.8,4.85 Lakhs
+HYUNDAI,GRAND I10(2017-2020),PETROL,Silver,48420,HATCHBACK,null,1,1st Owner,Madhya Pradesh,Indore,1,8,7.9,4.21 Lakhs
+HYUNDAI,I20(2015-2017),DIESEL,White,93033,HATCHBACK,null,1,2nd Owner,Madhya Pradesh,Indore,1,10,8,5.1 Lakhs
+MARUTI SUZUKI,ERTIGA,PETROL,White,40333,MPV,null,1,1st Owner,Madhya Pradesh,Indore,1,4,8.3,10.21 Lakhs
+HYUNDAI,GRAND I10,PETROL,Red,57851,HATCHBACK,null,0,2nd Owner,Madhya Pradesh,Indore,1,6,7.8,4.9 Lakhs
+RENAULT,KWID,PETROL,A Blue,37911,HATCHBACK,null,1,1st Owner,Madhya Pradesh,Indore,1,5,8.2,4.45 Lakhs
+MAHINDRA,TUV 300,DIESEL,White,88180,SUV,null,1,1st Owner,Madhya Pradesh,Indore,1,5,8.3,8.45 Lakhs
+RENAULT,KWID,PETROL,Grey,88903,HATCHBACK,null,1,1st Owner,Madhya Pradesh,Indore,1,8,7.9,3.3 Lakhs
+HYUNDAI,SANTRO(2018-2020),PETROL,Blue,63706,HATCHBACK,null,1,1st Owner,Madhya Pradesh,Indore,1,5,8,4.81 Lakhs
+HYUNDAI,VERNA,DIESEL,White,84711,SEDAN,null,1,1st Owner,Madhya Pradesh,Indore,1,7,7.7,10.45 Lakhs
+MARUTI SUZUKI,WAGON R,PETROL,Silver,76065,HATCHBACK,null,1,2nd Owner,Madhya Pradesh,Indore,0,9,7.7,4.01 Lakhs
+HONDA,AMAZE,PETROL,White,81128,SEDAN,Manual,1,1st Owner,Madhya Pradesh,Indore,1,11,7.8,4.1 Lakhs
+SKODA,RAPID(2016-2020),PETROL,White,95579,SEDAN,null,1,1st Owner,Madhya Pradesh,Indore,1,7,7.8,5.91 Lakhs
+RENAULT,KWID,PETROL,White,50239,HATCHBACK,null,1,1st Owner,Madhya Pradesh,Indore,1,10,7.6,2.9 Lakhs
+RENAULT,KWID,PETROL,White,38511,HATCHBACK,null,1,1st Owner,Madhya Pradesh,Indore,1,7,8.1,3.65 Lakhs
+MAHINDRA,SCORPIO,DIESEL,White,66203,SUV,null,1,1st Owner,Madhya Pradesh,Indore,0,6,7.8,12.45 Lakhs
+TATA,TIAGO,PETROL,Brown,13562,HATCHBACK,null,1,1st Owner,Madhya Pradesh,Indore,1,8,8.1,3.91 Lakhs
+HYUNDAI,CRETA,DIESEL,White,68980,SUV,null,1,1st Owner,Madhya Pradesh,Indore,1,5,7.9,17.11 Lakhs
+MAHINDRA,SCORPIO,DIESEL,Black,82068,SUV,null,1,1st Owner,Madhya Pradesh,Indore,1,6,7.9,16.5 Lakhs
+FORD,ASPIRE(2015_2018),PETROL,Red,78533,SEDAN,null,1,1st Owner,Madhya Pradesh,Indore,1,8,8,4.71 Lakhs
+MAHINDRA,XUV300,DIESEL,White,53309,SUV,null,1,1st Owner,Madhya Pradesh,Indore,1,5,8,9.25 Lakhs
+MAHINDRA,BOLERO,DIESEL,White,56000,SUV,null,1,2nd Owner,Madhya Pradesh,Indore,0,13,7.4,4.45 Lakhs
+MAHINDRA,BOLERO,DIESEL,White,65236,SUV,null,1,1st Owner,Madhya Pradesh,Indore,1,7,8.1,7.65 Lakhs
+HONDA,AMAZE,PETROL,White,40431,SEDAN,null,1,1st Owner,Madhya Pradesh,Indore,1,5,8.3,7.25 Lakhs
+MARUTI SUZUKI,WAGON R(2019-2022),PETROL,Grey,67000,HATCHBACK,null,1,1st Owner,Madhya Pradesh,Indore,0,6,0,5.25 Lakhs
+TOYOTA,FORTUNER,DIESEL,Brown,98000,SUV,Automatic,1,3rd Owner,Maharashtra,Mumbai,0,10,7.5,17.51 Lakhs
+MARUTI SUZUKI,ERTIGA,CNG,White,14748,MPV,null,After1Market,1st Owner,Maharashtra,Mumbai,1,4,8.1,11.1 Lakhs
+MERCEDES BENZ,E-CLASS(2015-2017),DIESEL,White,67000,SEDAN,null,1,1st Owner,Maharashtra,Mumbai,0,9,7.6,22.5 Lakhs
+SKODA,SUPERB,PETROL,Black,67656,SEDAN,null,1,1st Owner,Maharashtra,Mumbai,1,8,7.5,14.75 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Grey,54088,SUV,null,1,1st Owner,Maharashtra,Mumbai,1,6,7.8,9.25 Lakhs
+HONDA,CITY,PETROL,Silver,34499,SEDAN,Manual,1,1st Owner,Maharashtra,Mumbai,1,10,7.8,6.15 Lakhs
+MAHINDRA,XUV500(2011_2015),DIESEL,Pearl White,61319,SUV,null,1,1st Owner,Maharashtra,Mumbai,1,10,6.6,8.5 Lakhs
+MARUTI SUZUKI,ERTIGA(2018-2022),CNG,Grey,12017,MPV,null,1,1st Owner,Maharashtra,Mumbai,1,3,9.2,11.65 Lakhs
+HYUNDAI,GRAND I10 NIOS,PETROL,Grey,4489,HATCHBACK,null,1,1st Owner,Maharashtra,Mumbai,1,4,9.3,7.91 Lakhs
+SKODA,SUPERB,DIESEL,B Mist,107556,SEDAN,null,1,2nd Owner,Maharashtra,Mumbai,0,13,6.2,5.85 Lakhs
+HYUNDAI,CRETA,PETROL,A Blue,24613,SUV,null,1,2nd Owner,Maharashtra,Mumbai,1,6,8.2,12.75 Lakhs
+MARUTI SUZUKI,CIAZ,PETROL,White,66548,SEDAN,null,1,1st Owner,Maharashtra,Mumbai,1,8,8.1,6.25 Lakhs
+MARUTI SUZUKI,DZIRE,PETROL,Silver,34375,SEDAN,null,1,1st Owner,Maharashtra,Mumbai,1,5,8.8,7.91 Lakhs
+VOLKSWAGEN,TAIGUN,PETROL,Yellow,26868,SUV,null,1,1st Owner,Maharashtra,Mumbai,1,4,9,13.35 Lakhs
+HONDA,CITY,PETROL,Brown,67774,SEDAN,Manual,1,1st Owner,Maharashtra,Mumbai,1,10,7.8,6.75 Lakhs
+MARUTI SUZUKI,DZIRE(2017-2020),PETROL,Brown,13895,SEDAN,null,1,1st Owner,Maharashtra,Mumbai,1,5,8.9,8.11 Lakhs
+RENAULT,TRIBER,PETROL,Silver,18732,MPV,null,1,1st Owner,Maharashtra,Mumbai,1,3,9.3,7.11 Lakhs
+MARUTI SUZUKI,DZIRE,PETROL,Pearl White,38700,SEDAN,null,1,1st Owner,Maharashtra,Mumbai,1,5,8.8,7.75 Lakhs
+RENAULT,TRIBER,PETROL,White,16644,MPV,null,1,1st Owner,Maharashtra,Mumbai,1,4,9.2,7.11 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Blue,9789,HATCHBACK,null,1,1st Owner,Maharashtra,Mumbai,1,5,9,7.65 Lakhs
+TATA,ALTROZ,DIESEL,Red,14203,HATCHBACK,null,1,1st Owner,Maharashtra,Mumbai,1,3,9.3,9.9 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,DIESEL,White,67000,SEDAN,null,1,1st Owner,Maharashtra,Mumbai,0,7,7.8,7.91 Lakhs
+MAHINDRA,THAR,DIESEL,Aquamarine,9706,SUV,null,1,1st Owner,Maharashtra,Mumbai,1,3,9.2,15.75 Lakhs
+HYUNDAI,VERNA,DIESEL,Silver,52176,SEDAN,null,1,1st Owner,Maharashtra,Mumbai,1,7,8.2,10.45 Lakhs
+KIA,CARENS,DIESEL,Black,13654,MPV,null,1,1st Owner,Maharashtra,Mumbai,1,3,8.8,19.75 Lakhs
+JEEP,COMPASS(2021-2023),PETROL,Blue,11110,SUV,null,1,1st Owner,Maharashtra,Mumbai,1,4,9,19.75 Lakhs
+HYUNDAI,VERNA,DIESEL,White,81167,SEDAN,null,1,1st Owner,Maharashtra,Mumbai,1,6,8.1,9.85 Lakhs
+MARUTI SUZUKI,DZIRE(2017_2020),PETROL,Red,14720,SEDAN,null,1,1st Owner,Maharashtra,Mumbai,1,5,8.9,6.95 Lakhs
+KIA,CARENS,PETROL,Black,9000,MPV,null,1,1st Owner,Maharashtra,Mumbai,0,3,8.8,18.25 Lakhs
+TATA,HARRIER,DIESEL,Black,16191,SUV,null,1,1st Owner,Maharashtra,Mumbai,1,4,8.7,21.75 Lakhs
+HYUNDAI,AURA,PETROL,Grey,43228,SEDAN,null,1,1st Owner,Maharashtra,Mumbai,1,4,8.7,7.25 Lakhs
+TOYOTA,COROLLA ALTIS,PETROL,Brown,46726,SEDAN,Automatic,1,1st Owner,Maharashtra,Mumbai,1,8,7.7,12.5 Lakhs
+HYUNDAI,VENUE,PETROL,White,22487,SUV,null,1,1st Owner,Maharashtra,Mumbai,1,5,8.8,7.91 Lakhs
+RENAULT,DUSTER,DIESEL,Grey,36468,SUV,Manual,1,1st Owner,Maharashtra,Mumbai,1,11,7.2,5.1 Lakhs
+KIA,SONET,PETROL,Red,15308,SUV,null,1,1st Owner,Maharashtra,Mumbai,1,3,8.9,9.5 Lakhs
+RENAULT,KWID,PETROL,White,17859,HATCHBACK,null,1,1st Owner,Maharashtra,Mumbai,1,8,8.1,3.45 Lakhs
+HYUNDAI,ALCAZAR(2021-2023),PETROL,Grey,9409,SUV,null,1,1st Owner,Maharashtra,Mumbai,1,4,8.7,20.11 Lakhs
+JEEP,COMPASS,PETROL,Silver,35680,SUV,null,1,1st Owner,Maharashtra,Mumbai,1,7,7.8,13.45 Lakhs
+HONDA,JAZZ,PETROL,Urban Titanium,28627,HATCHBACK,null,1,1st Owner,Maharashtra,Mumbai,1,9,7.7,6.25 Lakhs
+HYUNDAI,ALCAZAR(2021-2023),PETROL,White,22515,SUV,null,1,1st Owner,Maharashtra,Mumbai,1,3,8.8,20.9 Lakhs
+VOLKSWAGEN,VENTO,PETROL,Brown,58140,SEDAN,null,1,1st Owner,Maharashtra,Mumbai,1,10,7.5,5.25 Lakhs
+TOYOTA,INNOVA CRYSTA,DIESEL,Beige,29789,MPV,null,1,1st Owner,Maharashtra,Mumbai,1,7,8,19.9 Lakhs
+MAHINDRA,XUV500,DIESEL,White,59785,SUV,null,1,1st Owner,Maharashtra,Mumbai,1,6,7.9,12.85 Lakhs
+TOYOTA,FORTUNER,DIESEL,Silver,96000,SUV,Automatic,1,2nd Owner,Maharashtra,Mumbai,0,12,6.2,14.75 Lakhs
+TATA,TIAGO,PETROL,White,31287,HATCHBACK,null,1,1st Owner,Maharashtra,Mumbai,1,6,8.7,5.85 Lakhs
+MAHINDRA,MARAZZO,DIESEL,Maroon,21624,MPV,null,1,1st Owner,Maharashtra,Mumbai,1,6,8.1,11.5 Lakhs
+MAHINDRA,XUV500,DIESEL,White,32295,SUV,null,1,1st Owner,Maharashtra,Mumbai,1,7,7.9,14.75 Lakhs
+VOLKSWAGEN,POLO,PETROL,White,40600,HATCHBACK,null,1,1st Owner,Tamil Nadu,Chennai,0,9,8.3,5.36 Lakhs
+MAHINDRA,THAR,DIESEL,Black,29291,SUV,null,0,2nd Owner,Tamil Nadu,Chennai,1,6,8.3,9.5 Lakhs
+RENAULT,KWID,PETROL,Carbon Bronze,41657,HATCHBACK,null,0,1st Owner,Tamil Nadu,Chennai,1,7,8.8,3.65 Lakhs
+HYUNDAI,GRAND I10,PETROL,Grey,75394,HATCHBACK,Automatic,0,1st Owner,Tamil Nadu,Chennai,1,10,8,4.75 Lakhs
+HONDA,JAZZ,PETROL,Brown,20831,HATCHBACK,null,0,1st Owner,Tamil Nadu,Chennai,1,8,8.1,6 Lakhs
+HONDA,AMAZE,PETROL,Silver,43501,SEDAN,Manual,0,1st Owner,Tamil Nadu,Chennai,1,7,8.3,4.75 Lakhs
+MAHINDRA,THAR,PETROL,G. Red,32304,SUV,null,0,1st Owner,Tamil Nadu,Chennai,1,4,8.3,14.5 Lakhs
+HYUNDAI,VERNA,DIESEL,G. Red,66030,SEDAN,Automatic,0,1st Owner,Tamil Nadu,Chennai,1,7,7.9,8.45 Lakhs
+MARUTI SUZUKI,ALTO 800,PETROL,Grey,68305,HATCHBACK,Manual,1,1st Owner,Tamil Nadu,Chennai,1,9,8.2,3.05 Lakhs
+RENAULT,TRIBER,PETROL,Milky White,44931,MPV,null,0,1st Owner,Tamil Nadu,Chennai,1,5,8.7,5.9 Lakhs
+RENAULT,CAPTUR,DIESEL,Dark Grey,72493,SUV,null,0,1st Owner,Tamil Nadu,Chennai,1,7,7.8,6.95 Lakhs
+HYUNDAI,I10(2010_2017),PETROL,Grey,67000,HATCHBACK,null,0,2nd Owner,Tamil Nadu,Chennai,0,12,7.3,3.45 Lakhs
+MERCEDES BENZ,E-CLASS(2009-2013),DIESEL,Golden,132565,SEDAN,null,0,3rd Owner,Tamil Nadu,Chennai,0,12,5.8,10 Lakhs
+VOLKSWAGEN,AMEO,DIESEL,Grey,66252,SEDAN,null,0,1st Owner,Tamil Nadu,Chennai,1,7,7.9,6.93 Lakhs
+HYUNDAI,XCENT,DIESEL,Silver,64285,SEDAN,Manual,1,1st Owner,Tamil Nadu,Chennai,1,10,7.8,4.86 Lakhs
+SKODA,KUSHAQ,PETROL,White,21006,SUV,null,0,1st Owner,Tamil Nadu,Chennai,0,4,8.7,12.45 Lakhs
+MARUTI SUZUKI,ALTO K10,PETROL,Blue,46936,HATCHBACK,Manual,0,1st Owner,Tamil Nadu,Chennai,1,8,8.4,3.4 Lakhs
+KIA,SONET,DIESEL,G. Red,61755,SUV,null,0,1st Owner,Tamil Nadu,Chennai,1,5,8,9.25 Lakhs
+TATA,TIGOR,PETROL,Silver,31685,SEDAN,null,0,1st Owner,Tamil Nadu,Chennai,0,8,8.1,4.5 Lakhs
+NISSAN,SUNNY,DIESEL,Purple,76787,SEDAN,Manual,0,1st Owner,Tamil Nadu,Chennai,1,11,7.1,4.45 Lakhs
+MARUTI SUZUKI,DZIRE(2017-2020),PETROL,Grey,47117,SEDAN,null,0,1st Owner,Tamil Nadu,Chennai,1,6,8.5,7.25 Lakhs
+MARUTI SUZUKI,WAGON R,PETROL,Silver,53250,HATCHBACK,Manual,0,1st Owner,Tamil Nadu,Chennai,0,15,7.2,2.5 Lakhs
+HYUNDAI,ACCENT,PETROL,Silver,73680,SEDAN,Manual,0,2nd Owner,Tamil Nadu,Chennai,0,15,6.8,1.4 Lakhs
+RENAULT,DUSTER,DIESEL,Black,73414,SUV,Manual,1,1st Owner,Tamil Nadu,Chennai,1,11,7.1,5.45 Lakhs
+HYUNDAI,ELITE I20,PETROL,Red,66684,HATCHBACK,null,1,1st Owner,Tamil Nadu,Chennai,1,6,8.2,6.65 Lakhs
+HYUNDAI,ELITE I20,PETROL,Silver,57317,HATCHBACK,Manual,1,1st Owner,Tamil Nadu,Chennai,1,9,8,5.85 Lakhs
+FORD,ECOSPORT,PETROL,Grey,46049,SUV,Manual,1,2nd Owner,Tamil Nadu,Chennai,1,11,7,4.75 Lakhs
+HYUNDAI,CRETA,DIESEL,Grey,68212,COMPACTSUV,Automatic,0,1st Owner,Tamil Nadu,Chennai,1,10,7.1,8.7 Lakhs
+HONDA,JAZZ,PETROL,Steel Mist,42490,HATCHBACK,null,0,1st Owner,Tamil Nadu,Chennai,1,8,7.9,6.5 Lakhs
+HONDA,CITY,PETROL,Brown,99400,SEDAN,Manual,0,1st Owner,Tamil Nadu,Chennai,0,11,7.5,5.6 Lakhs
+HYUNDAI,I10,PETROL,Grey,62557,HATCHBACK,Manual,0,1st Owner,Tamil Nadu,Chennai,1,10,7.9,3.95 Lakhs
+FORD,ECOSPORT,DIESEL,Milky White,43000,SUV,Manual,0,1st Owner,Tamil Nadu,Chennai,0,12,7,5.1 Lakhs
+HYUNDAI,I10(2010_2017),PETROL,Red,52381,HATCHBACK,null,1,2nd Owner,Tamil Nadu,Chennai,0,13,7.3,3.41 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Silver,8084,HATCHBACK,null,1,1st Owner,Tamil Nadu,Chennai,1,3,9.2,5.96 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Grey,30380,HATCHBACK,null,0,2nd Owner,Tamil Nadu,Chennai,1,9,7.8,5.45 Lakhs
+RENAULT,KWID,PETROL,Red,70976,HATCHBACK,null,1,1st Owner,Tamil Nadu,Chennai,1,8,8.2,3.56 Lakhs
+HYUNDAI,ELITE I20,PETROL,Grey,63412,HATCHBACK,null,1,1st Owner,Tamil Nadu,Chennai,1,8,8.3,5.96 Lakhs
+RENAULT,KWID,PETROL,Blue,65823,HATCHBACK,null,1,1st Owner,Tamil Nadu,Chennai,1,7,8.3,4.45 Lakhs
+MARUTI SUZUKI,S PRESSO,PETROL,Blue,12673,HATCHBACK,null,0,1st Owner,Tamil Nadu,Chennai,1,5,8.8,4.85 Lakhs
+HYUNDAI,GRAND I10,PETROL,Wine Red,54259,HATCHBACK,Manual,0,1st Owner,Tamil Nadu,Chennai,1,9,8.1,4.85 Lakhs
+HONDA,CITY,PETROL,Red,83952,SEDAN,Manual,0,1st Owner,Tamil Nadu,Chennai,0,13,6.7,4.55 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Grey,71516,HATCHBACK,Manual,0,1st Owner,Tamil Nadu,Chennai,1,10,8,4.85 Lakhs
+HYUNDAI,GRAND I10,PETROL,Red,68660,HATCHBACK,Manual,1,1st Owner,Tamil Nadu,Chennai,1,8,8.2,4.85 Lakhs
+HYUNDAI,SANTRO,PETROL,Marine Blue,24302,HATCHBACK,null,0,1st Owner,Tamil Nadu,Chennai,1,6,8.6,4.85 Lakhs
+MARUTI SUZUKI,DZIRE,PETROL,G. Red,48366,SEDAN,null,1,1st Owner,Tamil Nadu,Chennai,1,8,7.9,6.45 Lakhs
+HYUNDAI,VERNA(2017-2020),PETROL,Metallic Black,24790,SEDAN,null,0,1st Owner,Tamil Nadu,Chennai,1,5,8.5,10.25 Lakhs
+TATA,NEXON,PETROL,Grey,46910,HATCHBACK,null,0,2nd Owner,Tamil Nadu,Chennai,1,7,8,6.85 Lakhs
+HYUNDAI,CRETA,PETROL,White,49045,SUV,null,0,1st Owner,Tamil Nadu,Chennai,1,8,7.7,8.45 Lakhs
+MARUTI SUZUKI,CELERIO,DIESEL,L Grey,98554,HATCHBACK,null,1,1st Owner,West Bengal,Kolkata,0,10,7.8,3 Lakhs
+HYUNDAI,I20,DIESEL,Carbon Bronze,44779,HATCHBACK,Manual,0,2nd Owner,West Bengal,Kolkata,0,13,7.2,2.5 Lakhs
+MARUTI SUZUKI,SWIFT DZIRE,PETROL,Golden,36212,SEDAN,Manual,0,1st Owner,West Bengal,Kolkata,1,8,7.8,5.1 Lakhs
+MAHINDRA,XUV 500,DIESEL,White,80537,SUV,null,0,1st Owner,West Bengal,Kolkata,1,8,8.1,10.2 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,G. Red,32227,HATCHBACK,Manual,0,1st Owner,West Bengal,Kolkata,1,8,7.8,4.79 Lakhs
+HONDA,CITY,DIESEL,Cherry Red,30954,SEDAN,Manual,0,1st Owner,West Bengal,Kolkata,1,6,8,8.65 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Red,43209,HATCHBACK,null,0,1st Owner,West Bengal,Kolkata,1,8,7.7,5.2 Lakhs
+MARUTI SUZUKI,ALTO 800,PETROL,White,48221,HATCHBACK,Manual,1,1st Owner,West Bengal,Kolkata,1,8,7.7,2.59 Lakhs
+HYUNDAI,VERNA,DIESEL,Pearl White,32956,SEDAN,null,1,1st Owner,West Bengal,Kolkata,1,8,7.9,8.38 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,DIESEL,Silver,51971,HATCHBACK,null,0,1st Owner,West Bengal,Kolkata,1,6,8.1,7.5 Lakhs
+CHEVROLET,SPARK,PETROL,A Blue,34522,HATCHBACK,Manual,1,1st Owner,West Bengal,Kolkata,0,16,7.1,1.19 Lakhs
+MAHINDRA,BOLERO,DIESEL,White Red,45785,SUV,Manual,0,2nd Owner,West Bengal,Kolkata,0,10,7.8,5.15 Lakhs
+HONDA,CITY 5TH GEN,PETROL,Cherry Red,14353,SEDAN,null,0,1st Owner,West Bengal,Kolkata,1,4,8,12.5 Lakhs
+MARUTI SUZUKI,ZEN ESTILO,PETROL,Beige,30044,HATCHBACK,Manual,1,1st Owner,West Bengal,Kolkata,0,15,7.2,1.75 Lakhs
+HONDA,JAZZ,PETROL,Cherry Red,39253,HATCHBACK,null,1,1st Owner,West Bengal,Kolkata,0,9,7.7,4.6 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Silver,24841,HATCHBACK,Manual,0,2nd Owner,West Bengal,Kolkata,1,7,7.8,5.39 Lakhs
+FORD,FIGO(2012-2015),DIESEL,Chill,85000,HATCHBACK,null,1,1st Owner,West Bengal,Kolkata,0,13,7.7,1.67 Lakhs
+MARUTI SUZUKI,CIAZ,DIESEL,Brown,70067,SEDAN,null,0,2nd Owner,West Bengal,Kolkata,1,10,7.6,4 Lakhs
+MAHINDRA,MARAZZO,DIESEL,White,29774,MPV,null,1,1st Owner,West Bengal,Kolkata,1,5,7.9,10.25 Lakhs
+AUDI,Q3,DIESEL,Milky White,55000,SUV,null,1,2nd Owner,West Bengal,Kolkata,0,7,7.7,21.5 Lakhs
+MARUTI SUZUKI,CELERIO,PETROL,Silver,32455,HATCHBACK,null,1,1st Owner,West Bengal,Kolkata,1,9,8,3.9 Lakhs
+HYUNDAI,VENUE,PETROL,White,39183,SUV,null,1,1st Owner,West Bengal,Kolkata,1,5,7.9,8.40 Lakhs
+MAHINDRA,MARAZZO,DIESEL,Aquamarine,19437,MPV,null,1,1st Owner,West Bengal,Kolkata,1,4,8,10.75 Lakhs
+MAHINDRA,XUV 500,DIESEL,Rasberry Red,68024,SUV,null,0,1st Owner,West Bengal,Kolkata,1,7,7.9,11.5 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,Adriatic Blue,41294,HATCHBACK,null,0,1st Owner,West Bengal,Kolkata,1,5,8.3,6.25 Lakhs
+HONDA,CITY,PETROL,Brown,35796,SEDAN,Manual,0,1st Owner,West Bengal,Kolkata,1,11,7.5,5 Lakhs
+MAHINDRA,BOLERO(2007-2011),DIESEL,Red,99854,SUV,null,1,1st Owner,West Bengal,Kolkata,0,14,7.8,2.35 Lakhs
+MAHINDRA,TUV 300,DIESEL,Black,85600,SUV,Manual,0,1st Owner,West Bengal,Kolkata,0,7,8.1,5.5 Lakhs
+MAHINDRA,XUV500,DIESEL,Brown,26781,SUV,null,0,1st Owner,West Bengal,Kolkata,1,5,8.1,15.5 Lakhs
+HONDA,MOBILIO,DIESEL,White,65766,MPV,null,1,1st Owner,West Bengal,Kolkata,0,11,7.6,4 Lakhs
+HYUNDAI,GRAND I10,PETROL,Maroon,42500,HATCHBACK,Manual,1,1st Owner,West Bengal,Kolkata,0,10,8.1,3.5 Lakhs
+HYUNDAI,ELANTRA(2016-2019),DIESEL,Silver,22350,SEDAN,null,0,1st Owner,West Bengal,Kolkata,1,6,7.9,12 Lakhs
+NISSAN,TERRANO,DIESEL,Black,84956,SUV,Manual,0,3rd Owner,West Bengal,Kolkata,0,11,7.4,4.5 Lakhs
+MARUTI SUZUKI,ALTO,PETROL,Red,88541,HATCHBACK,Manual,1,1st Owner,West Bengal,Kolkata,0,17,7.5,1.2 Lakhs
+TATA,TIGOR(2018-2020),PETROL,Carbon Bronze,31960,SEDAN,null,0,1st Owner,West Bengal,Kolkata,1,7,8,3.3 Lakhs
+HYUNDAI,I10,PETROL,Dark Grey,44680,HATCHBACK,Manual,0,1st Owner,West Bengal,Kolkata,0,13,7.3,2.2 Lakhs
+HONDA,AMAZE,DIESEL,M.Maroon,48079,SEDAN,Manual,1,1st Owner,West Bengal,Kolkata,1,11,7.7,3.5 Lakhs
+MARUTI SUZUKI,ALTO K10,PETROL,Black,99854,HATCHBACK,Manual,1,1st Owner,West Bengal,Kolkata,0,15,7.3,1.75 Lakhs
+HYUNDAI,I20,PETROL,G. Red,124551,HATCHBACK,Manual,1,1st Owner,West Bengal,Kolkata,0,15,7.2,1.85 Lakhs
+MARUTI SUZUKI,ERTIGA,PETROL,A Blue,55115,MPV,null,1,1st Owner,West Bengal,Kolkata,1,11,7.6,4.6 Lakhs
+HYUNDAI,SANTRO XING,PETROL,other,65255,HATCHBACK,Manual,0,1st Owner,West Bengal,Kolkata,0,14,7.3,1.65 Lakhs
+HONDA,AMAZE,PETROL,Silver,50114,SEDAN,Manual,0,1st Owner,West Bengal,Kolkata,1,10,7.6,3.3 Lakhs
+HYUNDAI,I20,DIESEL,Carbon Bronze,76098,HATCHBACK,Manual,0,2nd Owner,West Bengal,Kolkata,1,11,7.6,3.5 Lakhs
+MAHINDRA,XYLO,DIESEL,Brown,85441,SUV,Manual,1,1st Owner,West Bengal,Kolkata,0,16,7.6,2 Lakhs
+MARUTI SUZUKI,VITARA BREZZA,PETROL,Orange,48967,SUV,null,0,1st Owner,West Bengal,Kolkata,1,5,8.2,8 Lakhs
+MARUTI SUZUKI,SWIFT,PETROL,Silky Silver,65000,HATCHBACK,Manual,0,1st Owner,West Bengal,Kolkata,0,11,8.1,3.15 Lakhs
+TATA,NEXON,PETROL,Black,28234,HATCHBACK,null,0,1st Owner,West Bengal,Kolkata,1,4,8,8.00 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,A Blue,31317,HATCHBACK,null,1,1st Owner,West Bengal,Kolkata,1,8,7.9,5.49 Lakhs
+MARUTI SUZUKI,SWIFT,DIESEL,Silver,88541,HATCHBACK,Manual,1,2nd Owner,West Bengal,Kolkata,0,11,7.5,3.4 Lakhs
+HYUNDAI,SANTRO XING,PETROL,Blue,95350,HATCHBACK,Manual,0,1st Owner,West Bengal,Kolkata,0,17,7.4,1 Lakhs
+HYUNDAI,VERNA,PETROL,Purple,53000,Sedan,null,1,1st Owner,West Bengal,Kolkata,0,13,7.7,3.3 Lakhs
+MAHINDRA,XUV500(2011_2015),DIESEL,White,35170,SUV,null,1,1st Owner,West Bengal,Kolkata,1,11,7.5,6.5 Lakhs
+HYUNDAI,GRAND I10,PETROL,White,46069,HATCHBACK,Manual,1,1st Owner,West Bengal,Kolkata,1,7,7.9,4.5 Lakhs
+MARUTI SUZUKI,BALENO,PETROL,G. Red,5814,HATCHBACK,null,1,2nd Owner,West Bengal,Kolkata,1,4,8.1,6.50 Lakhs
+MARUTI SUZUKI,ERTIGA,DIESEL,A Silver,48519,MUV,Manual,0,1st Owner,West Bengal,Kolkata,1,12,7.5,4.9 Lakhs
+MAHINDRA,MARAZZO,DIESEL,Maroon,62150,MPV,null,0,2nd Owner,West Bengal,Kolkata,0,7,8.1,7 Lakhs
+NISSAN,TERRANO,DIESEL,Dark Grey,70172,SUV,Manual,0,1st Owner,West Bengal,Kolkata,0,10,8.1,4.5 Lakhs
